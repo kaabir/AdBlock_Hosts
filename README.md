@@ -1,7 +1,8 @@
 AdBlock Hosts
 ==========
-https://github.com/kabir1947/AdBlock_Hosts
+https://github.com/kaabir/AdBlock_Hosts
 
+Use It With Caution -:
 
 Install via
 ---------------------
