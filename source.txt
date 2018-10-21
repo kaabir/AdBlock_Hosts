@@ -6,7 +6,8 @@
 # - https://kb.adguard.com/en/general/adguard-ad-filters
 # - http://someonewhocares.org/hosts/zero/hosts
 # - https://github.com/vokins/yhosts/blob/master/hosts.txt
-# - http://www.squidblacklist.org/downloads/dg-ads.acl
+# - http://www.squidblacklist.org/downloads/dg-ads.acl #important
+# - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts #chinese ads
 # - https://raw.githubusercontent.com/EnergizedProtection
 # - https://github.com/bjornstar/hosts/blob/master/hosts
 # - https://github.com/Lerist/Go-Hosts/blob/master/hosts-ad
@@ -28,3 +29,6 @@
 # - https://easylist-downloads.adblockplus.org/adwarefilters.txt
 # - https://github.com/StevenBlack/hosts/blob/master/data/StevenBlack/hosts
 # - https://github.com/FadeMind/hosts.extras/blob/master/UncheckyAds/hosts
+# - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+# - https://1hosts.cf/mini/
+# - https://github.com/lightswitch05/hosts
