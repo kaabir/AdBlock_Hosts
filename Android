@@ -3,7 +3,7 @@
 #	::1       localhost
 # # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
 # Version: 2.8
-# Updated: Tue, 24 Jan 19 03:20:25
+# Updated: Tue, 27 Jan 03:20:25
 # CREDITS:- 
 # - https://reports.exodus-privacy.eu.org/en/reports/stats/
 # - https://github.com/jawz101/MobileAdTrackers/blob/master/hosts
@@ -13,10 +13,6 @@
 0.0.0.0 graph.accountkit.com
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 staticxx.facebook.com
-0.0.0.0 xtrapath1.izatcloud.net
-0.0.0.0 xtrapath2.izatcloud.net
-0.0.0.0 xtrapath3.izatcloud.net
-0.0.0.0 time.izatcloud.net
 0.0.0.0 platform.twitter.com
 0.0.0.0 scribe.twitter.com
 0.0.0.0 graph.facebook.com
@@ -25,6 +21,8 @@
 0.0.0.0 connect.facebook.com
 0.0.0.0 ads.ak.facebook.com
 # Google ads
+0.0.0.0 market.android.com
+0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 adservices.google.com
@@ -86,6 +84,10 @@
 0.0.0.0 affiliate.googleusercontent.com
 0.0.0.0 displayads-formats.googleusercontent.com
 0.0.0.0 auditrecording-pa.googleapis.com
+# Airtel
+0.0.0.0 ipinfo.io
+0.0.0.0 dpm.demdex.net
+0.0.0.0 airtel.sc.omtrdc.net
 # Ads
 0.0.0.0 a-ads.com
 0.0.0.0 abc-ads.com
@@ -7825,3 +7827,15 @@
 0.0.0.0 zzhengre.com
 0.0.0.0 engine.mobileapptracking.com
 0.0.0.0 debug.engine.mobileapptracking.com
+0.0.0.0 go.automatad.com
+# Samsung Browser
+0.0.0.0 user-api.internet.apps.samsung.com
+0.0.0.0 config-api.internet.apps.samsung.com
+0.0.0.0 d3c3tktxbub3yt.cloudfront.net
+0.0.0.0 terms.internet.apps.samsung.com
+0.0.0.0 config.samqaicongen.com
+0.0.0.0 contentsblock.samqaicongen.com
+# Foxit
+0.0.0.0 cas.foxitsoftware.com
+0.0.0.0 1757173384.rsc.cdn77.org
+0.0.0.0 cws.connectedpdf.com
