@@ -107,7 +107,6 @@
 0.0.0.0 www3.doubleclick.com
 0.0.0.0 www.doubleclick.com
 0.0.0.0 ad.ie.doubleclick.net
-0.0.0.0 ssl.gstatic.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 ads.googlesyndication.com
 0.0.0.0 www.googlesyndication.com
@@ -4430,7 +4429,6 @@
 0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn5.userzoom.com
 0.0.0.0 cdnic.site
-0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cs126.wpc.edgecastcdn.net
 0.0.0.0 gallery.cdn.pandora.xiaomi.com
@@ -5868,6 +5866,8 @@
 0.0.0.0 anayltics.kuikr.com
 0.0.0.0 crashdump.spotify.com
 # ES File Explorer
+0.0.0.0 facepic.foldlife.net
+0.0.0.0 facemap.foldlife.net
 0.0.0.0 estrongs.com
 0.0.0.0 update.estrongs.com
 0.0.0.0 www.estrongs.com
@@ -9913,3 +9913,4 @@
 0.0.0.0 t.atdmt.com
 0.0.0.0 t.blismedia.com
 0.0.0.0 t.cdncyber.info
+0.0.0.0 improving.duckduckgo.com
