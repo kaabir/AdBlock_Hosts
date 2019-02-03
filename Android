@@ -3,7 +3,7 @@
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
 # Version: 2.8
-# Updated: Tue, 01 Feb 05:20:25
+# Updated: Tue, 04 Feb 05:20:25
 # CREDITS:- 
 # - https://reports.exodus-privacy.eu.org/en/reports/stats/
 # - https://github.com/jawz101/MobileAdTrackers/blob/master/hosts
@@ -11,20 +11,6 @@
 # - https://github.com/EnergizedProtection/block/blob/master/bluGo/formats/hosts.txt
 # - https://github.com/StevenBlack/hosts/blob/master/data/StevenBlack/hosts
 0.0.0.0 graph.accountkit.com
-0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 staticxx.facebook.com
-0.0.0.0 xtrapath1.izatcloud.net
-0.0.0.0 xtrapath2.izatcloud.net
-0.0.0.0 xtrapath3.izatcloud.net
-0.0.0.0 time.izatcloud.net
-0.0.0.0 platform.twitter.com
-0.0.0.0 scribe.twitter.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 graph.instagram.com
-0.0.0.0 pixel.facebook.com
-0.0.0.0 connect.facebook.com
-0.0.0.0 ads.ak.facebook.com
-0.0.0.0 chart.apis.google.com
 0.0.0.0 conversion-pixel.invitemedia.com
 0.0.0.0 analytics-api-samples.googlecode.com
 # Google ads
