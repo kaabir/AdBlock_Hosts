@@ -15,8 +15,8 @@ Extended Hosts Targets - Targeting Ads, Tracking, Analytics, Malware, Phishing &
 For Android 
 - Using Adaway (https://f-droid.org/packages/org.adaway/) - Add Android.txt in adaway source list
 - Using Root - Simply copy hosts to system/etc/hosts
-- Using TWRP - Flashable zips are shared on telgram channel
-- Using Magisk - Magisk Module are share on telgram channel
+- Using TWRP - Flashable zips are shared on telegram channel
+- Using Magisk - Magisk Module are share on telegram channel
 - Using AdGuard App [Non- Root]- Under Content Blocking > Filters > Custom Filters > Add URL (Raw)
 
 For Windows 
