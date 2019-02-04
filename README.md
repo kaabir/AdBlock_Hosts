@@ -21,3 +21,24 @@ For Android
 
 For Windows 
 - Copy hosts to c:\Windows\System32\Drivers\etc\hosts
+
+# Custom DNS
+Custom DNS for Android 9.0+ [Non-Root]
+- You can change it under - Settings> Network & Internet > Private DNS
+
+1. Adguard DNS [Adblocking Supported]
+dns.adguard.com
+
+2. Quad9 DNS [Adblocking Supported]
+dns.quad9.net
+
+3. Uncensored DNS
+anycast.censurfridns.dk
+unicast.censurfridns.dk
+
+4. DNS Watch
+resolver1.dns.watch
+resolver2.dns.watch
+
+5. CloudFlare DNS
+1dot1dot1dot1.cloudflare-dns.com
