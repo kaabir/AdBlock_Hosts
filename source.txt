@@ -1,4 +1,10 @@
-# CREDITS:- Me for UC Browser,E.S File Explorer & few others
+# CREDITS:-
+# - https://filterlists.com/
+# - https://reports.exodus-privacy.eu.org/en/reports/stats/
+# - https://github.com/jawz101/MobileAdTrackers/blob/master/hosts
+# - https://github.com/EnergizedProtection/block/blob/master/bluGo/formats/hosts.txt
+# - https://github.com/StevenBlack/hosts/blob/master/data/StevenBlack/hosts
+# - https://v.firebog.net/hosts/static/w3kbl.txt
 # - https://hosts-file.net/ad_servers.txt
 # - http://sysctl.org/cameleon/hosts
 # - http://www.hostsfile.org/Downloads/BadHosts.unx.zip
@@ -22,12 +28,10 @@
 # - https://github.com/bkrcrc/turk-adlist/blob/master/hosts
 # - https://dsi.ut-capitole.fr/blacklists/download/ads.tar.gz
 # - https://adaway.org/hosts.txt
-# - https://v.firebog.net/hosts/static/w3kbl.txt
 # - https://web.archive.org/web/20160221135711/http://adblock.gjtech.net/?format=unix-hosts
 # - https://ssl.bblck.me/blacklists/domain-list.txt
 # - https://github.com/yous/YousList/blob/master/hosts.txt
 # - https://easylist-downloads.adblockplus.org/adwarefilters.txt
-# - https://github.com/StevenBlack/hosts/blob/master/data/StevenBlack/hosts
 # - https://github.com/FadeMind/hosts.extras/blob/master/UncheckyAds/hosts
 # - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # - https://1hosts.cf/mini/
