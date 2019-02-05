@@ -6,24 +6,12 @@
 # Updated: Tue, 05 Feb 13:08:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
-0.0.0.0 amplifypixel.outbrain.com
-0.0.0.0 chrome-devtools-frontend.appspot.com
-0.0.0.0 chtatic.appspot.com
+0.0.0.0	chrome-devtools-frontend.appspot.com
+0.0.0.0	chtatic.appspot.com
 0.0.0.0	crwscdn.appspot.com
 0.0.0.0	crwscdn9.appspot.com
-0.0.0.0 go.pixellitomedia.com
-0.0.0.0 ima3vpaid.appspot.com
-0.0.0.0 logging.trakingpixel.com
-0.0.0.0 omniture.secure.miisolutions.net
-0.0.0.0 pixel.adblade.com
-0.0.0.0	pixel.adsafeprotected.com
-0.0.0.0	pixel.advertising.com
-0.0.0.0	pixel.condenastdigital.com
-0.0.0.0	pixel.everesttech.net
-0.0.0.0	pixel.fetchback.com
-0.0.0.0	pixel.indieclick.com
-0.0.0.0	pixel.keywee.co
-0.0.0.0	pixel.madadsmedia.com
+0.0.0.0	ima3vpaid.appspot.com
+0.0.0.0	omniture.secure.miisolutions.net
 0.0.0.0	pixel.mathtag.com
 0.0.0.0	pixel.mtrcs.samba.tv
 0.0.0.0	pixel.parsely.com
@@ -1773,6 +1761,7 @@
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplify.amplitude.com
 0.0.0.0 amplify.outbrain.com
+0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amplitude-peinture.fr
 0.0.0.0 amplitude.com
@@ -4436,7 +4425,6 @@
 0.0.0.0 chameleon.ad
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 charm.inmobi.com
-0.0.0.0 chart.apis.google.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
 0.0.0.0 chartboost.com
@@ -5767,6 +5755,7 @@
 0.0.0.0 go.mobstitial.com
 0.0.0.0 go.mobstitialtag.com
 0.0.0.0 go.mobtrks.com
+0.0.0.0 go.pixellitomedia.com
 0.0.0.0 go.pushnative.com
 0.0.0.0 go.smartadserver.com
 0.0.0.0 go.tapad.com
@@ -6597,6 +6586,7 @@
 0.0.0.0 logger.snackly.co
 0.0.0.0 logging.admicro.vn
 0.0.0.0 logging.groupon.com
+0.0.0.0 logging.trakingpixel.com
 0.0.0.0 logging5.truecaller.com
 0.0.0.0 logidea.info
 0.0.0.0 login-canary.flurry.com
@@ -7561,15 +7551,18 @@
 0.0.0.0 pixel.adadvisor.net
 0.0.0.0 pixel.adasiaholdings.com
 0.0.0.0 pixel.adblade.com
+0.0.0.0 pixel.adblade.com
 0.0.0.0 pixel.adcrowd.com
 0.0.0.0 pixel.adlooxtracking.com
 0.0.0.0 pixel.admedia.com
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.adsniper.ru
 0.0.0.0 pixel.adsrvr.org
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.adstailor.com
+0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 pixel.agkn.com
@@ -7598,6 +7591,7 @@
 0.0.0.0 pixel.clrstm.com
 0.0.0.0 pixel.collosteam.com
 0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.criteo.com
 0.0.0.0 pixel.criteo.net
@@ -7607,9 +7601,11 @@
 0.0.0.0 pixel.digitru.st
 0.0.0.0 pixel.europapress.net
 0.0.0.0 pixel.everesttech.net
+0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.eversttech.net
 0.0.0.0 pixel.exelator.com
 0.0.0.0 pixel.fanbridge.com
+0.0.0.0 pixel.fetchback.com
 0.0.0.0 pixel.geotex.uk.com
 0.0.0.0 pixel.getchute.com
 0.0.0.0 pixel.getpaidfordata.com
@@ -7620,6 +7616,7 @@
 0.0.0.0 pixel.inbox.et.returnpath.net
 0.0.0.0 pixel.inbox.exacttarget.com
 0.0.0.0 pixel.indieclick.com
+0.0.0.0 pixel.indieclick.com
 0.0.0.0 pixel.industrybrains.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 pixel.intares.net
@@ -7627,7 +7624,9 @@
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.keywee.co
+0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.kiitties.com
+0.0.0.0 pixel.madadsmedia.com
 0.0.0.0 pixel.madadsmedia.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.mathtag.com.edgekey.net
@@ -7731,7 +7730,6 @@
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 plank.apptimize.com
 0.0.0.0 platform-api.newrelic.com
-0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 platform.cloud-iq.com.au
 0.0.0.0 platform.ifc.inmobi.com
 0.0.0.0 platform.mobileapptracking.com
@@ -8241,7 +8239,6 @@
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 s.umeng.com
 0.0.0.0 s.update.adsrvr.org
-0.0.0.0 s.update.fbsbx.com
 0.0.0.0 s.update.moatads.com
 0.0.0.0 s.update.mopub.com
 0.0.0.0 s.vertamedia.com
@@ -9210,7 +9207,6 @@
 0.0.0.0 t.pg.cn.miaozhen.com
 0.0.0.0 t.pubnative.net
 0.0.0.0 t.singular.net
-0.0.0.0 t.update.fbsbx.com
 0.0.0.0 t.update.moatads.com
 0.0.0.0 t.update.mopub.com
 0.0.0.0 t.wayfair.com
