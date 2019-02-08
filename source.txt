@@ -1,5 +1,6 @@
 # CREDITS:-
 # - https://filterlists.com/
+# - https://firebog.net/
 # - https://reports.exodus-privacy.eu.org/en/reports/stats/
 # - https://github.com/jawz101/MobileAdTrackers/blob/master/hosts
 # - https://github.com/EnergizedProtection/block/blob/master/bluGo/formats/hosts.txt
