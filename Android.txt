@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.6
-# Updated: Tue, 25 Feb 20:31:25
+# Version: 3.0.5
+# Updated: Tue, 23 Feb 15:31:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -5125,6 +5125,7 @@
 0.0.0.0 click.adstailor.com
 0.0.0.0 click.advertnative.com
 0.0.0.0 click.affifix.com
+0.0.0.0 click.alibaba.com
 0.0.0.0 click.amazingmobi.com
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.appnext.com
@@ -10092,9 +10093,13 @@
 0.0.0.0 stats.dice.com
 0.0.0.0 stats.directnic.com
 0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 stats.g.douleclick.net
 0.0.0.0 stats.gbvanalytics.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 stats.hyperinzerce.cz
+0.0.0.0 stats.ibtimes.co.in
+0.0.0.0 stats.ibtimes.co.uk
+0.0.0.0 stats.ifixit.com
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.juicyads.com
 0.0.0.0 stats.merriam-webster.com
@@ -10105,7 +10110,9 @@
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.self.com
+0.0.0.0 stats.slideshare.net
 0.0.0.0 stats.snappytv.com
+0.0.0.0 stats.stackexchange.com
 0.0.0.0 stats.tmtm.ru
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.umsns.com
@@ -10555,7 +10562,6 @@
 0.0.0.0 tic.googlesyndication.com
 0.0.0.0 tieba.baidu.com
 0.0.0.0 tileswan.cmcm.com
-0.0.0.0 time.izatcloud.net
 0.0.0.0 tinypass.com
 0.0.0.0 tip-ads.de
 0.0.0.0 tip.atdmt.com
@@ -10729,6 +10735,7 @@
 0.0.0.0 tracking.beginads.com
 0.0.0.0 tracking.chartboost.com
 0.0.0.0 tracking.cp.ligatus.com
+0.0.0.0 tracking.crealytics.com
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.deskadsserver.com
 0.0.0.0 tracking.directservices.it
@@ -12061,9 +12068,6 @@
 0.0.0.0 xs.swagger1.com
 0.0.0.0 xsdk.adkmob.com
 0.0.0.0 xshare.api.xiaomi.com
-0.0.0.0 xtrapath1.izatcloud.net
-0.0.0.0 xtrapath2.izatcloud.net
-0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 xwbe.wcdn.co.il
 0.0.0.0 xz15801.com
@@ -12173,4 +12177,4 @@
 0.0.0.0 zulip.dynamicyield.com
 0.0.0.0 zumobi.com
 0.0.0.0 zx.game.xiaomi.com
-0.0.0.0 zzhengre.com
+0.0.0.0 zzhengre.
