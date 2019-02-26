@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.5
-# Updated: Tue, 23 Feb 15:31:25
+# Version: 3.0.6
+# Updated: Tue, 26 Feb 17:56:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -202,6 +202,7 @@
 0.0.0.0 ab.hysdknb.com
 0.0.0.0 abc-ads.com
 0.0.0.0 abc.atom.adjust.com
+0.0.0.0 abc.imrworldwide.com
 0.0.0.0 abcd.mdc.akamaized.net
 0.0.0.0 abitare.mpanalytics.it
 0.0.0.0 aboads.adk2x.com
@@ -3894,6 +3895,7 @@
 0.0.0.0 aspp.atom.adjust.com
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset.pagefair.net
+0.0.0.0 assets-1.mxplay.com
 0.0.0.0 assets-v3.chartboost.com
 0.0.0.0 assets.258ydh.com
 0.0.0.0 assets.adobedtm.com
@@ -4632,6 +4634,7 @@
 0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn-fastly.krxd.net
 0.0.0.0 cdn-fb.vizury.com
+0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-img1.statserv.net
@@ -5070,7 +5073,6 @@
 0.0.0.0 chameleon.ad
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 charm.inmobi.com
-0.0.0.0 chart.apis.google.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
 0.0.0.0 chartboost.com
@@ -5241,6 +5243,7 @@
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 cloudac.nonolive.com
 0.0.0.0 cloudads-a.akamaihd.net
+0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudboost.co.il
 0.0.0.0 cloudflame.co.il
 0.0.0.0 cloudflare.cdneval.adnxs.com
@@ -5270,6 +5273,7 @@
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cm.eyereturn.com
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 cm.imrworldwide.com
 0.0.0.0 cm.jd.com
 0.0.0.0 cm.lianmeng.360.cn
 0.0.0.0 cm.mgid.com
@@ -5496,6 +5500,7 @@
 0.0.0.0 creatives.crossinstall.io
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 credishe.com
+0.0.0.0 cricinfo-au.imrworldwide.com
 0.0.0.0 crispadvertising.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
@@ -5600,6 +5605,7 @@
 0.0.0.0 dailycaller.onesignal.com
 0.0.0.0 dante2007.com
 0.0.0.0 dapper.net
+0.0.0.0 dar.imrworldwide.com
 0.0.0.0 dasdada.fu.ck
 0.0.0.0 dash.adjust.com
 0.0.0.0 dashapi.chartboost.com
@@ -6178,6 +6184,7 @@
 0.0.0.0 experteerads.com
 0.0.0.0 explore.mixpanel.com
 0.0.0.0 explorer-staging.flurry.com
+0.0.0.0 export02-au.imrworldwide.com
 0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 ext.dynamicyield.com
@@ -6286,8 +6293,13 @@
 0.0.0.0 fdc-ny2.tapjoy.com
 0.0.0.0 fdc.tapjoy.com
 0.0.0.0 fdplttrk.com
+0.0.0.0 fe-au.imrworldwide.com
 0.0.0.0 fe02.lg.xiaomi.com
 0.0.0.0 fe05.lg.xiaomi.com
+0.0.0.0 fe1-au.imrworldwide.com
+0.0.0.0 fe2-au.imrworldwide.com
+0.0.0.0 fe3-au.imrworldwide.com
+0.0.0.0 fe4-au.imrworldwide.com
 0.0.0.0 feed-ads.com
 0.0.0.0 feed-ads.com 
 0.0.0.0 feed.adnow.com
@@ -6322,7 +6334,6 @@
 0.0.0.0 firebaseio.com
 0.0.0.0 firebaserules.clients6.google.com
 0.0.0.0 firebasestorage.clients6.google.com
-0.0.0.0 firebasestorage.googleapis.com
 0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 fitanalytics.com
 0.0.0.0 fjrkn.com
@@ -6416,6 +6427,7 @@
 0.0.0.0 g2.doubleclick.net
 0.0.0.0 g3.doubleclick.net
 0.0.0.0 ga-beacon.appspot.com
+0.0.0.0 gaana.mxplayer.in
 0.0.0.0 gaandroid.talkingdata.net
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gallery.adtima.vn
@@ -6785,7 +6797,6 @@
 0.0.0.0 i.ligatus.com
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.n.jwpltx.com
-0.0.0.0 i.scdn.co
 0.0.0.0 i.singular.net
 0.0.0.0 i.tapit.com
 0.0.0.0 i.umeng.com
@@ -6988,6 +6999,7 @@
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 improveads.fi
 0.0.0.0 improving.duckduckgo.com
+0.0.0.0 imrworldwide.com
 0.0.0.0 imwx.com
 0.0.0.0 in-bads.adiquity.com
 0.0.0.0 in.admicro.vn
@@ -7124,7 +7136,6 @@
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipa.pushwoosh.com
 0.0.0.0 iphone.aut5.com
-0.0.0.0 ipinfo.io
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 ipw.metadsp.co.uk
 0.0.0.0 iqiyi.irs01.com
@@ -7504,6 +7515,7 @@
 0.0.0.0 ltvapi.tapjoy.com
 0.0.0.0 lucky88.com
 0.0.0.0 lxqcgj.com
+0.0.0.0 lycos-eu.imrworldwide.com
 0.0.0.0 lyssh.gw.localytics.com
 0.0.0.0 m-a1-j2apps.s.llnwi.net
 0.0.0.0 m-adash.m.taobao.com
@@ -8097,6 +8109,7 @@
 0.0.0.0 newrelic.com
 0.0.0.0 news.flurry.com
 0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 news.imrworldwide.com
 0.0.0.0 newsanalytics.com.au
 0.0.0.0 newshuntads.com
 0.0.0.0 newskey.newsanalytics.com.au
@@ -8124,6 +8137,7 @@
 0.0.0.0 nhanthuong88.com
 0.0.0.0 nhz.adwo.com
 0.0.0.0 nickhel.com
+0.0.0.0 ninemsn.imrworldwide.com
 0.0.0.0 nitroclicks.com
 0.0.0.0 njchartboostrtb.lfstmedia.com
 0.0.0.0 nlog.baidu.com
@@ -8174,6 +8188,7 @@
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 nsof-web.dynamicyield.com
+0.0.0.0 nt-es.imrworldwide.com
 0.0.0.0 nth.under9.co
 0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
@@ -8357,6 +8372,7 @@
 0.0.0.0 ox.appnext.com
 0.0.0.0 oxado.com
 0.0.0.0 oz.ministryofads.com
+0.0.0.0 ozemail.imrworldwide.com
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 p-v2.presage.io
 0.0.0.0 p.ad.gt
@@ -8765,6 +8781,7 @@
 0.0.0.0 prime31.com
 0.0.0.0 primetime.net
 0.0.0.0 priority.appsflyer.com
+0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privacy.adcolony.com
 0.0.0.0 privacy.evidon.com
 0.0.0.0 privacy.tapad.com
@@ -8887,6 +8904,7 @@
 0.0.0.0 pxl.idx.admaster.com.cn
 0.0.0.0 pxl.zapr.in
 0.0.0.0 py.moatads.com
+0.0.0.0 pyk.imrworldwide.com
 0.0.0.0 pyxis.iad.appboy.com
 0.0.0.0 q.tf-con.com
 0.0.0.0 qa-ads-ban.advertising.com
@@ -8966,6 +8984,7 @@
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rbp.emea.mxptint.net
 0.0.0.0 rbp.mxptint.net
+0.0.0.0 rc-au.imrworldwide.com
 0.0.0.0 rc-studio.inmobi.com
 0.0.0.0 rc.dxsvr.com
 0.0.0.0 rc2waycm-atl.netmng.com
@@ -9281,6 +9300,7 @@
 0.0.0.0 saber.srvcs.tumblr.com
 0.0.0.0 sact.atdmt.com
 0.0.0.0 sadc1.outbrain.org
+0.0.0.0 safe-es.imrworldwide.com
 0.0.0.0 safe.ucweb.com
 0.0.0.0 sageanalyst.net
 0.0.0.0 sale.test.admicro.vn
@@ -9565,12 +9585,37 @@
 0.0.0.0 secode2.hd.xiaomi.com
 0.0.0.0 secure-ads.mopub.com
 0.0.0.0 secure-ams.adnxs.com
+0.0.0.0 secure-asia.imrworldwide.com
+0.0.0.0 secure-au.imrworldwide.com
+0.0.0.0 secure-cert.imrworldwide.com
+0.0.0.0 secure-chn.imrworldwide.com
+0.0.0.0 secure-dcr-cert.imrworldwide.com
+0.0.0.0 secure-dcr.imrworldwide.com
+0.0.0.0 secure-dk.imrworldwide.com
+0.0.0.0 secure-drm.imrworldwide.com
 0.0.0.0 secure-ds.serving-sys.com
+0.0.0.0 secure-enc.imrworldwide.com
+0.0.0.0 secure-eu.imrworldwide.com
+0.0.0.0 secure-gg.imrworldwide.com
+0.0.0.0 secure-gl.imrworldwide.com
+0.0.0.0 secure-it.imrworldwide.com
+0.0.0.0 secure-jp.imrworldwide.com
+0.0.0.0 secure-ngd.imrworldwide.com
+0.0.0.0 secure-nz.imrworldwide.com
+0.0.0.0 secure-proxy.imrworldwide.com
+0.0.0.0 secure-sg.imrworldwide.com
 0.0.0.0 secure-sin.adnxs.com
+0.0.0.0 secure-uat2.imrworldwide.com
+0.0.0.0 secure-uk.imrworldwide.com
+0.0.0.0 secure-us.imrworldwide.com
+0.0.0.0 secure-wbw.imrworldwide.com
+0.0.0.0 secure-yt.imrworldwide.com
+0.0.0.0 secure-za.imrworldwide.com
 0.0.0.0 secure.aadcdn.microsoftonline-p.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.fastclick.net
 0.0.0.0 secure.img-cdn.mediaplex.com
+0.0.0.0 secure.imrworldwide.com
 0.0.0.0 secure.informaction.com
 0.0.0.0 secure.insightexpressai.com
 0.0.0.0 secure.ironbeast.io
@@ -9615,6 +9660,42 @@
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedby.adsfactor.net
 0.0.0.0 servedbyadbutler.com
+0.0.0.0 server-au.imrworldwide.com
+0.0.0.0 server-br.imrworldwide.com
+0.0.0.0 server-by.imrworldwide.com
+0.0.0.0 server-ch.imrworldwide.com
+0.0.0.0 server-de.imrworldwide.com
+0.0.0.0 server-dk.imrworldwide.com
+0.0.0.0 server-ee.imrworldwide.com
+0.0.0.0 server-es.imrworldwide.com
+0.0.0.0 server-fi.imrworldwide.com
+0.0.0.0 server-fr.imrworldwide.com
+0.0.0.0 server-g1-au.imrworldwide.com
+0.0.0.0 server-gr.imrworldwide.com
+0.0.0.0 server-hk.imrworldwide.com
+0.0.0.0 server-hu.imrworldwide.com
+0.0.0.0 server-it.imrworldwide.com
+0.0.0.0 server-jp.imrworldwide.com
+0.0.0.0 server-kr.imrworldwide.com
+0.0.0.0 server-lt.imrworldwide.com
+0.0.0.0 server-lv.imrworldwide.com
+0.0.0.0 server-my.imrworldwide.com
+0.0.0.0 server-nl.imrworldwide.com
+0.0.0.0 server-no.imrworldwide.com
+0.0.0.0 server-nz.imrworldwide.com
+0.0.0.0 server-oslo.imrworldwide.com
+0.0.0.0 server-ph.imrworldwide.com
+0.0.0.0 server-pl.imrworldwide.com
+0.0.0.0 server-ru.imrworldwide.com
+0.0.0.0 server-se.imrworldwide.com
+0.0.0.0 server-sg.imrworldwide.com
+0.0.0.0 server-stockh.imrworldwide.com
+0.0.0.0 server-th.imrworldwide.com
+0.0.0.0 server-tr.imrworldwide.com
+0.0.0.0 server-ua.imrworldwide.com
+0.0.0.0 server-uk.imrworldwide.com
+0.0.0.0 server-us.imrworldwide.com
+0.0.0.0 server-ve.imrworldwide.com
 0.0.0.0 server.ib.adnxs.com
 0.0.0.0 server.idreams.pl
 0.0.0.0 server.m.pp.cn
@@ -10031,6 +10112,7 @@
 0.0.0.0 static.gazeta.ru
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.ieplads.com
+0.0.0.0 static.imrworldwide.com
 0.0.0.0 static.intsig.net
 0.0.0.0 static.itrack.it
 0.0.0.0 static.juicyads.com
@@ -10518,6 +10600,7 @@
 0.0.0.0 telenor-creatives.53.localytics.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 teliad.de
+0.0.0.0 telstra.imrworldwide.com
 0.0.0.0 temai.snssdk.com
 0.0.0.0 templates.glispaconnect.com
 0.0.0.0 tencent-dtv.m.cn.miaozhen.com
@@ -10855,6 +10938,7 @@
 0.0.0.0 ua.supersonicads.com
 0.0.0.0 uac-assets.cdn.inmobi.com
 0.0.0.0 uad-api.nicovideo.jp
+0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 uat1.bfsspadserver.8le8le.com
 0.0.0.0 uauniverse.com
 0.0.0.0 uber.demdex.net
@@ -11213,6 +11297,7 @@
 0.0.0.0 vkcdnservice.appspot.com
 0.0.0.0 vletv.admaster.com.cn
 0.0.0.0 vn.alexajstrack.com
+0.0.0.0 vodafonein.sc.omtrdc.net
 0.0.0.0 vodmovies.co.il
 0.0.0.0 vodx.co.il
 0.0.0.0 voip.game.xiaomi.com
@@ -12177,4 +12262,4 @@
 0.0.0.0 zulip.dynamicyield.com
 0.0.0.0 zumobi.com
 0.0.0.0 zx.game.xiaomi.com
-0.0.0.0 zzhengre.
+0.0.0.0 zzhengre.com
