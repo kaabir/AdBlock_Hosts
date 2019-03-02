@@ -6989,7 +6989,6 @@
 0.0.0.0 images2.zemanta.com
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 imarkets.co.il
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imces.dfw1.vip.inmobi.com
 0.0.0.0 imces.inmobi.com
 0.0.0.0 imces.vip.lhr1.inmobi.com
@@ -8780,7 +8779,6 @@
 0.0.0.0 platform.cloud-iq.com.au
 0.0.0.0 platform.ifc.inmobi.com
 0.0.0.0 platform.mobileapptracking.com
-0.0.0.0 platform.twitter.com
 0.0.0.0 play.gamezop.com
 0.0.0.0 player.aniview.com
 0.0.0.0 player.ooyala.com
@@ -9445,7 +9443,6 @@
 0.0.0.0 scout.scoutanalytics.net
 0.0.0.0 scoutanalytics.net
 0.0.0.0 scr.diningrewardsclub.net
-0.0.0.0 scribe.twitter.com
 0.0.0.0 script.ioam.de
 0.0.0.0 script.novanet.vn
 0.0.0.0 scripts.demandbase.com
@@ -10637,7 +10634,6 @@
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.trafficreps.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 synthetics.newrelic.com
 0.0.0.0 syo.adjustnetwork.com
 0.0.0.0 sypi.gpshopper.com
@@ -10904,7 +10900,6 @@
 0.0.0.0 tiles.cdn.mozilla.net
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 tileswan.cmcm.com
-0.0.0.0 time.izatcloud.net
 0.0.0.0 tinypass.com
 0.0.0.0 tip-ads.de
 0.0.0.0 tip.atdmt.com
@@ -12429,9 +12424,6 @@
 0.0.0.0 xs.swagger1.com
 0.0.0.0 xsdk.adkmob.com
 0.0.0.0 xshare.api.xiaomi.com
-0.0.0.0 xtrapath1.izatcloud.net
-0.0.0.0 xtrapath2.izatcloud.net
-0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 xwbe.wcdn.co.il
 0.0.0.0 xz15801.com
