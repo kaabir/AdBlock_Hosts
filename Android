@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.7
-# Updated: Sat, 1 Mar 14:30:25
+# Version: 3.0.8
+# Updated: Sun, 03 Mar 14:30:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -718,6 +718,14 @@
 0.0.0.0 adnxs.comadplexmedia.adk2x.com
 0.0.0.0 ado.pro-market.net
 0.0.0.0 adobe-d.openx.net
+0.0.0.0 adobe.com.d1.sc.omtrdc.net
+0.0.0.0 adobe.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 adobeconnectna.d1.sc.omtrdc.net
+0.0.0.0 adobeconsumer.sc.omtrdc.net
+0.0.0.0 adobecorp.sc.omtrdc.net
+0.0.0.0 adobemcspb.b.sc.omtrdc.net
+0.0.0.0 adobepoctrials.d1.sc.omtrdc.net
+0.0.0.0 adobeproduct.d1.sc.omtrdc.net
 0.0.0.0 adocean.pl
 0.0.0.0 adonspot.com
 0.0.0.0 adoperator.com
@@ -1896,6 +1904,7 @@
 0.0.0.0 agl-intl.hotstar.com
 0.0.0.0 agl.hotstar.com
 0.0.0.0 ah-v1.presage.io
+0.0.0.0 ai.branch.io
 0.0.0.0 ai.m.taobao.com
 0.0.0.0 aianalytics.ie
 0.0.0.0 aidl-dev1001.data.corp.inmobi.com
@@ -5578,6 +5587,7 @@
 0.0.0.0 crushads.com
 0.0.0.0 crwscdn.appspot.com
 0.0.0.0 crwscdn9.appspot.com
+0.0.0.0 crypt.aws.branch.io
 0.0.0.0 crypt2.appboy.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 cs.analytics.lego.com
@@ -5795,6 +5805,7 @@
 0.0.0.0 dev.adsnative.com
 0.0.0.0 dev.amplitude.com
 0.0.0.0 dev.appboy.com
+0.0.0.0 dev.branch.io
 0.0.0.0 dev.dsp.persona.ly
 0.0.0.0 dev.email-analytics.admicro.vn
 0.0.0.0 dev.findep.adnow.com
@@ -6105,6 +6116,7 @@
 0.0.0.0 emea-v3.tracking.justpremium.com
 0.0.0.0 en-studiotraining.inmobi.com
 0.0.0.0 en.browser.baidu.com
+0.0.0.0 encrypt.branch.io
 0.0.0.0 enectoanalytics.com
 0.0.0.0 eng.localytics.com
 0.0.0.0 eng.tapjoy.com
@@ -6199,6 +6211,7 @@
 0.0.0.0 events.appflyer.com
 0.0.0.0 events.appnext.com
 0.0.0.0 events.appsflyer.com
+0.0.0.0 events.branch.io
 0.0.0.0 events.dynamicyield.com
 0.0.0.0 events.foreseeresults.com
 0.0.0.0 events.iap.unity3d.com
@@ -6443,6 +6456,7 @@
 0.0.0.0 fornax.iad.appboy.com
 0.0.0.0 forward.adjustnetwork.com
 0.0.0.0 fourmtagservices.appspot.com
+0.0.0.0 foxnews.com.d1.sc.omtrdc.net
 0.0.0.0 foxnews.demdex.net
 0.0.0.0 fptad.com
 0.0.0.0 fr.register.xmpush.global.xiaomi.com
@@ -6528,6 +6542,7 @@
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 gdown.baidu.com
 0.0.0.0 gdpr.adjust.com
+0.0.0.0 gdpr.branch.io
 0.0.0.0 gdwbetvn888.com
 0.0.0.0 gdwviet.com
 0.0.0.0 gecko-sg.byteoversea.com
@@ -6614,6 +6629,7 @@
 0.0.0.0 go.apptimize.com
 0.0.0.0 go.apptrk.io
 0.0.0.0 go.automatad.com
+0.0.0.0 go.branch.io
 0.0.0.0 go.corp.mixpanel.com
 0.0.0.0 go.localytics.com
 0.0.0.0 go.mobpartner.mobi
@@ -6684,6 +6700,7 @@
 0.0.0.0 greenlead.co.il
 0.0.0.0 greenpanel.corp.mixpanel.com
 0.0.0.0 grow.urbanairship.com
+0.0.0.0 growth.branch.io
 0.0.0.0 grp.dynamicyield.com
 0.0.0.0 gs.m.cn.miaozhen.com
 0.0.0.0 gs.serving-sys.com
@@ -6989,6 +7006,7 @@
 0.0.0.0 images2.zemanta.com
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 imarkets.co.il
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imces.dfw1.vip.inmobi.com
 0.0.0.0 imces.inmobi.com
 0.0.0.0 imces.vip.lhr1.inmobi.com
@@ -7467,6 +7485,8 @@
 0.0.0.0 like-it.co.il
 0.0.0.0 like.baidu.com
 0.0.0.0 linicom.co.il
+0.0.0.0 link.alpha.branch.io
+0.0.0.0 link.beta.branch.io
 0.0.0.0 link.dynamicyield.com
 0.0.0.0 link.krxd.net
 0.0.0.0 link.outbrain.com
@@ -8090,6 +8110,8 @@
 0.0.0.0 mtj.baidu.com
 0.0.0.0 mtlog.droid4x.cn
 0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 munki.aws.branch.io
+0.0.0.0 munkireport.aws.branch.io
 0.0.0.0 munydjudj.fruithosted.net
 0.0.0.0 mup.amp.mcafee.com
 0.0.0.0 musculahq.appspot.com
@@ -8240,6 +8262,7 @@
 0.0.0.0 notify.nuviad.com
 0.0.0.0 novanet.vn
 0.0.0.0 novostimira.biz
+0.0.0.0 now.bt.co
 0.0.0.0 noxagile.duapp.com
 0.0.0.0 npario-inc.net
 0.0.0.0 nqs.nice264.com
@@ -8504,6 +8527,7 @@
 0.0.0.0 paimgcdn.baidu.com
 0.0.0.0 panda.adsame.com
 0.0.0.0 pandoramedia.campaign.adobe.com
+0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 paradoxfactor.com
 0.0.0.0 parameter.lionmobi.com
 0.0.0.0 pardot.com
@@ -8779,6 +8803,7 @@
 0.0.0.0 platform.cloud-iq.com.au
 0.0.0.0 platform.ifc.inmobi.com
 0.0.0.0 platform.mobileapptracking.com
+0.0.0.0 platform.twitter.com
 0.0.0.0 play.gamezop.com
 0.0.0.0 player.aniview.com
 0.0.0.0 player.ooyala.com
@@ -8880,6 +8905,7 @@
 0.0.0.0 prod-analytics.qlitics.com
 0.0.0.0 prod-m-node-1212.nexage.com
 0.0.0.0 prod.apptimize.com
+0.0.0.0 prod.branch.io
 0.0.0.0 prod.millennialmedia.com
 0.0.0.0 prod.outbrain.map.fastlylb.net
 0.0.0.0 prod.telemetry.ros.rockstargames.com
@@ -8958,6 +8984,8 @@
 0.0.0.0 pulse.inmobi.com
 0.0.0.0 pulsepoint-cm.p.veruta.com
 0.0.0.0 pulsepoint-platform.rtb.adx1.com
+0.0.0.0 puppet.aws.branch.io
+0.0.0.0 puppetdb.aws.branch.io
 0.0.0.0 pups.baidu.com
 0.0.0.0 push.360overseas.com
 0.0.0.0 push.apusapps.com
@@ -9392,6 +9420,7 @@
 0.0.0.0 safe-es.imrworldwide.com
 0.0.0.0 safe.ucweb.com
 0.0.0.0 sageanalyst.net
+0.0.0.0 sal.aws.branch.io
 0.0.0.0 sale.test.admicro.vn
 0.0.0.0 saledev.admicro.vn
 0.0.0.0 sales-link.dynamicyield.com
@@ -9443,6 +9472,7 @@
 0.0.0.0 scout.scoutanalytics.net
 0.0.0.0 scoutanalytics.net
 0.0.0.0 scr.diningrewardsclub.net
+0.0.0.0 scribe.twitter.com
 0.0.0.0 script.ioam.de
 0.0.0.0 script.novanet.vn
 0.0.0.0 scripts.demandbase.com
@@ -10041,6 +10071,8 @@
 0.0.0.0 sslads.vizury.com
 0.0.0.0 ssljscdn.airbrake.io
 0.0.0.0 sslproxy-prod.adobedtm.com
+0.0.0.0 ssltest.branch.io
+0.0.0.0 ssltest2.branch.io
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssor.tribdss.com
 0.0.0.0 ssp-csync.smartadserver.com
@@ -10634,6 +10666,7 @@
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.trafficreps.com
+0.0.0.0 syndication.twitter.com
 0.0.0.0 synthetics.newrelic.com
 0.0.0.0 syo.adjustnetwork.com
 0.0.0.0 sypi.gpshopper.com
@@ -10900,6 +10933,7 @@
 0.0.0.0 tiles.cdn.mozilla.net
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 tileswan.cmcm.com
+0.0.0.0 time.izatcloud.net
 0.0.0.0 tinypass.com
 0.0.0.0 tip-ads.de
 0.0.0.0 tip.atdmt.com
@@ -11149,6 +11183,9 @@
 0.0.0.0 trk.serving-technology003.com
 0.0.0.0 trk.superads.cn
 0.0.0.0 trk.wrinkads.com
+0.0.0.0 tron-api.prod.branch.io
+0.0.0.0 tron-branchmain.prod.branch.io
+0.0.0.0 tron-test.prod.branch.io
 0.0.0.0 tru.webelapp.com
 0.0.0.0 trustmedia.co.il
 0.0.0.0 truviewanalytics.com
@@ -11505,6 +11542,7 @@
 0.0.0.0 video-interstitial-assets-cdn.fyber.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.adsrvr.org
+0.0.0.0 video.branch.io
 0.0.0.0 video.fyber.com
 0.0.0.0 video.inmobi.com
 0.0.0.0 video.market.xiaomi.com
@@ -11556,8 +11594,11 @@
 0.0.0.0 vkcdnservice.appspot.com
 0.0.0.0 vletv.admaster.com.cn
 0.0.0.0 vn.alexajstrack.com
+0.0.0.0 vodafone.d3.sc.omtrdc.net
+0.0.0.0 vodafonees.d2.sc.omtrdc.net
 0.0.0.0 vodafonein.demdex.net
 0.0.0.0 vodafonein.sc.omtrdc.net
+0.0.0.0 vodafoneit.sc.omtrdc.net
 0.0.0.0 vodmovies.co.il
 0.0.0.0 vodx.co.il
 0.0.0.0 voip.game.xiaomi.com
@@ -11572,8 +11613,10 @@
 0.0.0.0 vpaid.springserve.net
 0.0.0.0 vpb0.moatads.com
 0.0.0.0 vpn.appsflyer.com
+0.0.0.0 vpn.aws.branch.io
 0.0.0.0 vpn.nexage.com
 0.0.0.0 vpn.outbrain.com
+0.0.0.0 vpn2.branch.io
 0.0.0.0 vqq.admaster.com.cn
 0.0.0.0 vr-services.outbrain.com
 0.0.0.0 vra.outbrain.com
@@ -11590,6 +11633,7 @@
 0.0.0.0 vu.moatads.com
 0.0.0.0 vu.moatads.comvu.moatads.com
 0.0.0.0 vuckle-analytics.appspot.com
+0.0.0.0 vulcan.branch.io
 0.0.0.0 vungle.com
 0.0.0.0 vuukle-analytics.appspot.com
 0.0.0.0 vv84.bj.bcebos.com
@@ -12370,6 +12414,7 @@
 0.0.0.0 www.zulip.dynamicyield.com
 0.0.0.0 www187.apnanalytics.com
 0.0.0.0 www187a.apnanalytics.com
+0.0.0.0 www2.branch.io
 0.0.0.0 www2.crittercism.com
 0.0.0.0 www2.doubleclick.com
 0.0.0.0 www2.juicyads.com
@@ -12424,6 +12469,9 @@
 0.0.0.0 xs.swagger1.com
 0.0.0.0 xsdk.adkmob.com
 0.0.0.0 xshare.api.xiaomi.com
+0.0.0.0 xtrapath1.izatcloud.net
+0.0.0.0 xtrapath2.izatcloud.net
+0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 xwbe.wcdn.co.il
 0.0.0.0 xz15801.com
