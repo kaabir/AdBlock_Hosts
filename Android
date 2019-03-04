@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8
-# Updated: Sun, 03 Mar 14:30:25
+# Version: 3.0.8.1
+# Updated: Mon, 04 Mar 15:44:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -606,7 +606,6 @@
 0.0.0.0 adition.de
 0.0.0.0 adition.net
 0.0.0.0 adizio.com
-0.0.0.0 adj.st
 0.0.0.0 adjix.com
 0.0.0.0 adjug.com
 0.0.0.0 adjuggler.com
@@ -2637,6 +2636,7 @@
 0.0.0.0 api-development.lisnr.com
 0.0.0.0 api-development.treasuredata.com
 0.0.0.0 api-doc.adtechus.com
+0.0.0.0 api-dot-hobi-1.appspot.com
 0.0.0.0 api-east.touchcommerce.com
 0.0.0.0 api-eu-central-1.petametrics.com
 0.0.0.0 api-eu-west-1.adsnative.com
@@ -3212,6 +3212,7 @@
 0.0.0.0 api.leadbolt.com
 0.0.0.0 api.leadbolt.net
 0.0.0.0 api.leadiacloud.com
+0.0.0.0 api.leadpages.io
 0.0.0.0 api.leancloud.cn
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.levelaccess.net
@@ -3870,6 +3871,7 @@
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com
 0.0.0.0 appservestar.com
+0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer.com
 0.0.0.0 appshelf.ttpsdk.info
@@ -3916,6 +3918,7 @@
 0.0.0.0 as-v1.presage.io
 0.0.0.0 as.ad-brix.com
 0.0.0.0 as.adfonic.net
+0.0.0.0 as.casalemedia.com
 0.0.0.0 as.eu.angsrvr.com
 0.0.0.0 as.jivox.com
 0.0.0.0 as.sexad.net
@@ -4803,6 +4806,8 @@
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.cmdelivery.pw
 0.0.0.0 cdn.connectad.io
+0.0.0.0 cdn.convertkit.com
+0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cpiera.com
 0.0.0.0 cdn.creative.medialytics.com
 0.0.0.0 cdn.crwdcntrl.net
@@ -5797,6 +5802,8 @@
 0.0.0.0 deployer.53.localytics.com
 0.0.0.0 deploygate.com
 0.0.0.0 detect.rayjump.com
+0.0.0.0 detector.apptornado.com
+0.0.0.0 detector2.apptornado.com
 0.0.0.0 detik.serving-sys.com
 0.0.0.0 dev-api.persona.ly
 0.0.0.0 dev-site.smartadserver.com
@@ -6565,6 +6572,7 @@
 0.0.0.0 geoip.businessinsider.com
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.ifunny.co
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geoplugin.net
 0.0.0.0 geoservice.webengage.com
 0.0.0.0 gerrit-staging.corp.mixpanel.com
@@ -7006,7 +7014,6 @@
 0.0.0.0 images2.zemanta.com
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 imarkets.co.il
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imces.dfw1.vip.inmobi.com
 0.0.0.0 imces.inmobi.com
 0.0.0.0 imces.vip.lhr1.inmobi.com
@@ -8041,6 +8048,7 @@
 0.0.0.0 monk.webengage.com
 0.0.0.0 monktest.webengage.com
 0.0.0.0 mopub-dfp.mopub.com
+0.0.0.0 mopub-east3-bidder.manage.com
 0.0.0.0 mopub-rtb.adfonic.net
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 mopub-win-us-east.bkswin.com
@@ -8298,6 +8306,7 @@
 0.0.0.0 nugg.ad
 0.0.0.0 nuggad.net
 0.0.0.0 null.iad.appboy.com
+0.0.0.0 nvirginia-callbacks.mobfox.com
 0.0.0.0 ny-only.outbrain.com
 0.0.0.0 ny.outbrain.com
 0.0.0.0 nychi2.outbrain.com
@@ -8803,7 +8812,6 @@
 0.0.0.0 platform.cloud-iq.com.au
 0.0.0.0 platform.ifc.inmobi.com
 0.0.0.0 platform.mobileapptracking.com
-0.0.0.0 platform.twitter.com
 0.0.0.0 play.gamezop.com
 0.0.0.0 player.aniview.com
 0.0.0.0 player.ooyala.com
@@ -9472,7 +9480,6 @@
 0.0.0.0 scout.scoutanalytics.net
 0.0.0.0 scoutanalytics.net
 0.0.0.0 scr.diningrewardsclub.net
-0.0.0.0 scribe.twitter.com
 0.0.0.0 script.ioam.de
 0.0.0.0 script.novanet.vn
 0.0.0.0 scripts.demandbase.com
@@ -10246,6 +10253,7 @@
 0.0.0.0 static.itrack.it
 0.0.0.0 static.juicyads.com
 0.0.0.0 static.jvc.gg
+0.0.0.0 static.leadpages.net
 0.0.0.0 static.lucky88.com
 0.0.0.0 static.m.sjzhushou.com
 0.0.0.0 static.masoffer.net
@@ -10549,6 +10557,7 @@
 0.0.0.0 stm-cdn.cn.miaozhen.com
 0.0.0.0 stm-collect.cn.miaozhen.com
 0.0.0.0 stnn.adsame.com
+0.0.0.0 stockholm-commute.appspot.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 storage.yogavpn.com
@@ -10588,6 +10597,7 @@
 0.0.0.0 suo.lp.mydas.mobi
 0.0.0.0 supersonic.ironbeast.io
 0.0.0.0 supersonicads-a.akamaihd.net
+0.0.0.0 supersonicads-a.akamaihd.net.edgesuite.net
 0.0.0.0 supersonicads.com
 0.0.0.0 superstats.com
 0.0.0.0 support-legacy.newrelic.com
@@ -10666,7 +10676,6 @@
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.trafficreps.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 synthetics.newrelic.com
 0.0.0.0 syo.adjustnetwork.com
 0.0.0.0 sypi.gpshopper.com
@@ -10933,7 +10942,6 @@
 0.0.0.0 tiles.cdn.mozilla.net
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 tileswan.cmcm.com
-0.0.0.0 time.izatcloud.net
 0.0.0.0 tinypass.com
 0.0.0.0 tip-ads.de
 0.0.0.0 tip.atdmt.com
@@ -11686,6 +11694,7 @@
 0.0.0.0 web-frontend-dot-sc-analytics.appspot.com
 0.0.0.0 web-sdk.control.kochava.com
 0.0.0.0 web-sdk.urbanairship.com
+0.0.0.0 web-video-caster-firebase.firebaseio.com
 0.0.0.0 web.53.localytics.com
 0.0.0.0 web.btncdn.com
 0.0.0.0 web.localytics.com
@@ -12469,9 +12478,6 @@
 0.0.0.0 xs.swagger1.com
 0.0.0.0 xsdk.adkmob.com
 0.0.0.0 xshare.api.xiaomi.com
-0.0.0.0 xtrapath1.izatcloud.net
-0.0.0.0 xtrapath2.izatcloud.net
-0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 xwbe.wcdn.co.il
 0.0.0.0 xz15801.com
