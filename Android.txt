@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.1
-# Updated: Mon, 04 Mar 15:44:25
+# Version: 3.0.8.2
+# Updated: Mon, 07 Mar 17:44:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -147,6 +147,7 @@
 0.0.0.0 a.d.mojigaga.com
 0.0.0.0 a.dpmsrv.com
 0.0.0.0 a.ecook.cn
+0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.fiksu.com
 0.0.0.0 a.flurry.com
 0.0.0.0 a.fortumo.com
@@ -606,7 +607,6 @@
 0.0.0.0 adition.de
 0.0.0.0 adition.net
 0.0.0.0 adizio.com
-0.0.0.0 adj.st
 0.0.0.0 adjix.com
 0.0.0.0 adjug.com
 0.0.0.0 adjuggler.com
@@ -3470,6 +3470,7 @@
 0.0.0.0 api.sms.intl.miui.com
 0.0.0.0 api.snoobi.com
 0.0.0.0 api.so.lianmeng.360.cn
+0.0.0.0 api.socialannex.com
 0.0.0.0 api.sonobi.com
 0.0.0.0 api.south.kontagent.net
 0.0.0.0 api.speedcurve.com
@@ -4926,6 +4927,7 @@
 0.0.0.0 cdn.smartclick.io
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 cdn.smi2.net
+0.0.0.0 cdn.socialannex.com
 0.0.0.0 cdn.sokrati.com
 0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.speedcurve.com
@@ -5138,7 +5140,6 @@
 0.0.0.0 chameleon.ad
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 charm.inmobi.com
-0.0.0.0 chart.apis.google.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
 0.0.0.0 chartboost.com
@@ -6173,6 +6174,7 @@
 0.0.0.0 et-cn.apac.gslb.inmobi.com
 0.0.0.0 et-cn.w.inmobi.com
 0.0.0.0 et-integration.dynamicyield.com
+0.0.0.0 et.nytimes.com
 0.0.0.0 et.w.ams1.appgw.inmobi.com
 0.0.0.0 et.w.dfw2.vip.inmobi.com
 0.0.0.0 et.w.inmobi.com
@@ -12036,6 +12038,7 @@
 0.0.0.0 www.cdn.adsnative.com
 0.0.0.0 www.cdn.dynamicyield.com
 0.0.0.0 www.cdn.pubnative.net
+0.0.0.0 www.cdn.socialannex.com
 0.0.0.0 www.chacomedia.com
 0.0.0.0 www.chartboost.com
 0.0.0.0 www.chaturbate.com
