@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.4
-# Updated: Sat, 09 Mar 01:05:25
+# Version: 3.0.8.5
+# Updated: Sat, 10 Mar 21:07:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -249,7 +249,18 @@
 0.0.0.0 action.adzcore.com
 0.0.0.0 activated.co.il
 0.0.0.0 activation.adobedtm.com
+0.0.0.0 activities.alibaba.com
+0.0.0.0 activities.aliexpress.com
+0.0.0.0 activity-prod.shareitpay.in
+0.0.0.0 activity.app.autohome.com.cn
+0.0.0.0 activity.m.duiba.com.cn
+0.0.0.0 activity.serving-sys.com
+0.0.0.0 activity.tuifish.com
 0.0.0.0 activity.umeng.com
+0.0.0.0 activity.windows.com
+0.0.0.0 activity.wshareit.com
+0.0.0.0 activity.yuyiya.com
+0.0.0.0 actlog.dftoutiao.com
 0.0.0.0 actsdk.idreamsky.com
 0.0.0.0 acuityads.com
 0.0.0.0 acuityplatform.com
@@ -592,6 +603,7 @@
 0.0.0.0 adimages.sanomawsoy.fi
 0.0.0.0 adimg.cnet.com
 0.0.0.0 adimg.com.com
+0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adimg1.chosun.com
 0.0.0.0 adimg3.search.naver.net
@@ -3939,6 +3951,7 @@
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 asearch.alicdn.com
 0.0.0.0 aser.comscore.com
+0.0.0.0 asg.zapr.in
 0.0.0.0 ashleymadison.com
 0.0.0.0 ashleyrnadison.com
 0.0.0.0 asia.pool.ntp.org
@@ -4414,6 +4427,7 @@
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.yandex.ru
+0.0.0.0 bsch.serving-sys.com
 0.0.0.0 bsdigital.co.il
 0.0.0.0 bsdygital.co.il
 0.0.0.0 bss.pandora.xiaomi.com
@@ -5230,7 +5244,6 @@
 0.0.0.0 click.j-a-net.jp
 0.0.0.0 click.kmindex.ru
 0.0.0.0 click.link2ads.com
-0.0.0.0 click.linksynergy.com
 0.0.0.0 click.m.ambientplatform.vn
 0.0.0.0 click.mibet.com
 0.0.0.0 click.mtburn.com
@@ -5577,6 +5590,7 @@
 0.0.0.0 creative-cdn.appgrowth.com
 0.0.0.0 creative-services.tapad.com
 0.0.0.0 creative.doubleclick.net
+0.0.0.0 creative.zapr.in
 0.0.0.0 creative1cdn.mobfox.com
 0.0.0.0 creativelibrary.millennialmedia.com
 0.0.0.0 creatives-adserver.smaato.com
@@ -5629,9 +5643,11 @@
 0.0.0.0 ctoid.net 
 0.0.0.0 ctologger01.analytics.go.com
 0.0.0.0 cuebiq.com
+0.0.0.0 custom.serving-sys.com
 0.0.0.0 custom.supersonicads.com
 0.0.0.0 custom2.supersonicads.com
 0.0.0.0 customad.cnn.com
+0.0.0.0 customds.serving-sys.com
 0.0.0.0 customer-folder-eu.dynamicyield.com
 0.0.0.0 customer-folder.dynamicyield.com
 0.0.0.0 customer.iad-03.appboy.com
@@ -5730,6 +5746,7 @@
 0.0.0.0 data.tapad.com
 0.0.0.0 data.vungle.com
 0.0.0.0 data.zapr.in
+0.0.0.0 datacapture.serving-sys.com
 0.0.0.0 datacloud-eu-central-1.tealiumiq.com
 0.0.0.0 datacloud-eu-west-1.tealiumiq.com
 0.0.0.0 datacloud-us-east-1.tealiumiq.com
@@ -6003,6 +6020,9 @@
 0.0.0.0 drivenotepad.appspot.com
 0.0.0.0 druid-broker.flurry.com
 0.0.0.0 ds-aksb-a.akamaihd.net
+0.0.0.0 ds-cc.serving-sys.com
+0.0.0.0 ds-ll.serving-sys.com
+0.0.0.0 ds-vn.serving-sys.com
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 dsp-d.ants.vn
 0.0.0.0 dsp-preprod.inmobi.com
@@ -7133,6 +7153,7 @@
 0.0.0.0 info.inmobi.com
 0.0.0.0 info.localytics.com
 0.0.0.0 info.muxy.io
+0.0.0.0 info.sizmek.com
 0.0.0.0 info.static.startappservice.com
 0.0.0.0 info.tapjoy.com
 0.0.0.0 info.taplytics.com
@@ -7588,6 +7609,7 @@
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs.api.vungle.com
 0.0.0.0 logs.gaana.com
+0.0.0.0 logs.juspay.in
 0.0.0.0 logs.locarta.co
 0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.roku.com
@@ -8118,6 +8140,7 @@
 0.0.0.0 msgapi.umeng.com
 0.0.0.0 msite.baidu.com
 0.0.0.0 msmetrics.ws.sonos.com
+0.0.0.0 msn.serving-sys.com
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mssp.baidu.com
 0.0.0.0 mt.sitomobile.com
@@ -8578,6 +8601,7 @@
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 pay-ads.com
 0.0.0.0 pay.getadmiral.com
+0.0.0.0 pay.mobile.sina.cn
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 pb.pubnative.net
 0.0.0.0 pc.moatads.com
@@ -8597,6 +8621,7 @@
 0.0.0.0 permutive.com
 0.0.0.0 persona.ly
 0.0.0.0 petitionermaster.appspot.com
+0.0.0.0 phando.digit.in
 0.0.0.0 philadelphia.in-viacom18.videoplaza.tv
 0.0.0.0 phillateemis.iad-03.braze.com
 0.0.0.0 phluant.com
@@ -8638,6 +8663,7 @@
 0.0.0.0 piwik.vulpecula.uberspace.de
 0.0.0.0 pix.impdesk.com
 0.0.0.0 pix.in-viacom18.videoplaza.tv
+0.0.0.0 pix.silverpush.co
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel-static.spotify.com
@@ -8898,6 +8924,7 @@
 0.0.0.0 press.flurry.com
 0.0.0.0 preview.adsame.com
 0.0.0.0 preview.adsnative.com
+0.0.0.0 preview.serving-sys.com
 0.0.0.0 preview.smartadserver.com
 0.0.0.0 prexyone.appspot.com
 0.0.0.0 prg.smartadserver.com
@@ -9460,6 +9487,7 @@
 0.0.0.0 saturn1.appads.com
 0.0.0.0 saturn2.appads.com
 0.0.0.0 saturn3.appads.com
+0.0.0.0 sax.sina.cn
 0.0.0.0 saxp.zedo.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sbox1-bevo.adsnative.com
@@ -9727,6 +9755,7 @@
 0.0.0.0 secure-gl.imrworldwide.com
 0.0.0.0 secure-it.imrworldwide.com
 0.0.0.0 secure-jp.imrworldwide.com
+0.0.0.0 secure-msntest.serving-sys.com
 0.0.0.0 secure-ngd.imrworldwide.com
 0.0.0.0 secure-nz.imrworldwide.com
 0.0.0.0 secure-proxy.imrworldwide.com
@@ -9850,6 +9879,7 @@
 0.0.0.0 services.digg.com
 0.0.0.0 services.iad.appboy.com
 0.0.0.0 services.krxd.net
+0.0.0.0 services.serving-sys.com
 0.0.0.0 services.sync2ad.com
 0.0.0.0 services.taboolasyndication.com
 0.0.0.0 servicesupport.hicloud.com
@@ -9925,6 +9955,9 @@
 0.0.0.0 signupservice.appsflyer.com
 0.0.0.0 silence-ads.com
 0.0.0.0 silvermob.com
+0.0.0.0 silverpush.affise.com
+0.0.0.0 silverpush.co
+0.0.0.0 silverpush.com
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 sin.fb.adsrvr.org
 0.0.0.0 sin1.g.adnxs.com
@@ -9943,6 +9976,7 @@
 0.0.0.0 siterecruit.comscore.com
 0.0.0.0 sites.chartboost.com
 0.0.0.0 sitescoutadserver.com
+0.0.0.0 sizmek.com
 0.0.0.0 sjc-ads-bgp.contextweb.com
 0.0.0.0 sjc-ads-weighted.contextweb.com
 0.0.0.0 sjc.ads.nexage.com
@@ -10189,6 +10223,7 @@
 0.0.0.0 stat.kika-backend.com
 0.0.0.0 stat.lianmeng.360.cn
 0.0.0.0 stat.mobgi.com
+0.0.0.0 stat.moneycontrol.co.in
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 stat.pushwoosh.com
 0.0.0.0 stat.v.baidu.com
@@ -11158,6 +11193,7 @@
 0.0.0.0 tremorhub.com
 0.0.0.0 tremormedia.com
 0.0.0.0 trenddigital.vn
+0.0.0.0 trends.mobile.sina.cn
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trial.api.huangye.miui.com
 0.0.0.0 tribpubads.com
@@ -11269,7 +11305,6 @@
 0.0.0.0 ultraadserver.com
 0.0.0.0 ulv.statistics.aatkit.com
 0.0.0.0 um.simpli.fi
-0.0.0.0 um2.eqads.com
 0.0.0.0 um2.eqads.com x.skimresources.com
 0.0.0.0 umeng.com
 0.0.0.0 ums.adtech.de
@@ -11339,6 +11374,7 @@
 0.0.0.0 us.adserver.yahoo.com
 0.0.0.0 us.adzmediadsp.com
 0.0.0.0 us.bksn.se
+0.0.0.0 us.bs.serving-sys.com
 0.0.0.0 us.find.api.micloud.xiaomi.net
 0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 us.intellitxt.com
@@ -11635,7 +11671,10 @@
 0.0.0.0 warlog.ru
 0.0.0.0 was.optimize.webtrends.com
 0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 wbapp.mobile.sina.cn
+0.0.0.0 wbclick.mobile.sina.cn
 0.0.0.0 wbn.su
+0.0.0.0 wbpctips.mobile.sina.cn
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 wcpanalytics.com
 0.0.0.0 wd.adcolony.com
@@ -11976,6 +12015,7 @@
 0.0.0.0 www.blobanalytics.com
 0.0.0.0 www.blratavw01.corp.inmobi.com
 0.0.0.0 www.brandguidelines.outbrain.com
+0.0.0.0 www.bs.serving-sys.com
 0.0.0.0 www.build.ares.inmobi.com
 0.0.0.0 www.build.dynamicyield.com
 0.0.0.0 www.build.tools.inmobi.com
@@ -12282,8 +12322,10 @@
 0.0.0.0 www.sf-3.st.adtekmedia.com
 0.0.0.0 www.sidekiq-status.appboy.com
 0.0.0.0 www.sidekiq-status2.appboy.com
+0.0.0.0 www.silverpush.com
 0.0.0.0 www.sionicmedia.com
 0.0.0.0 www.siteimproveanalytics.com
+0.0.0.0 www.sizmek.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www.softonic-analytics.net
 0.0.0.0 www.sondheim.appboy.com
