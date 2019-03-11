@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.5
-# Updated: Sat, 10 Mar 21:07:25
+# Version: 3.0.8.6
+# Updated: Mon, 11 Mar 20:30:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -3759,6 +3759,7 @@
 0.0.0.0 app-o.marketo.com
 0.0.0.0 app-p.marketo.com
 0.0.0.0 app-q.marketo.com
+0.0.0.0 app-stats.smugmug.com
 0.0.0.0 app-tj.adinall.com
 0.0.0.0 app-tst.scorecardresearch.com
 0.0.0.0 app-www.nation.marketo.com
@@ -5519,6 +5520,7 @@
 0.0.0.0 conversion.pro.cn
 0.0.0.0 convhkmp.taboola.com
 0.0.0.0 convlatbmp.taboola.com
+0.0.0.0 cookie.vrtzads.com
 0.0.0.0 cooladata.com
 0.0.0.0 cooloffers.co.il
 0.0.0.0 coopermedia.go2affise.com
