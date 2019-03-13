@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.6
-# Updated: Mon, 11 Mar 20:30:25
+# Version: 3.0.8.7
+# Updated: Wed, 13 Mar 20:30:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -4151,6 +4151,7 @@
 0.0.0.0 banners.admicro.vn
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
+0.0.0.0 banners.analytics.organicfruitapps.com
 0.0.0.0 banners.asiafriendfinder.com
 0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bigmobileads.com
@@ -7588,9 +7589,11 @@
 0.0.0.0 log2.quintelligence.com
 0.0.0.0 logauth.polarisoffice.com
 0.0.0.0 logback.qos.ch
+0.0.0.0 logc406.xiti.com
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 logger.cloudmobi.net
+0.0.0.0 logger.instagram.com
 0.0.0.0 logger.krxd.net
 0.0.0.0 logger.millennialmedia.com
 0.0.0.0 logger.ntracecloud.com
@@ -7616,6 +7619,12 @@
 0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.supersonic.com
+0.0.0.0 logs11.xiti.com
+0.0.0.0 logs1136.xiti.com
+0.0.0.0 logs1279.xiti.com
+0.0.0.0 logs128.xiti.com
+0.0.0.0 logs1406.xiti.com
+0.0.0.0 logs152.xiti.com
 0.0.0.0 logs2.appsflyer.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logtest.moatads.com
@@ -8004,6 +8013,7 @@
 0.0.0.0 mobile-displayads-uk.l.doubleclick.net
 0.0.0.0 mobile-displayads.l.doubleclick.net
 0.0.0.0 mobile-global.baidu.com
+0.0.0.0 mobile-sdk-data-trends.safedk.com
 0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 mobile-symbol-upload.newrelic.com
@@ -8104,6 +8114,7 @@
 0.0.0.0 movip.wps.com
 0.0.0.0 mp.adnxs.com
 0.0.0.0 mp.huangye.miui.com
+0.0.0.0 mp.safedk.com
 0.0.0.0 mp.teads.tv
 0.0.0.0 mparticle.com
 0.0.0.0 mpire.com
@@ -8910,6 +8921,7 @@
 0.0.0.0 pptv.cm.admaster.com.cn
 0.0.0.0 ppurifier.game.xiaomi.com
 0.0.0.0 pr-v1.presage.io
+0.0.0.0 pr.safedk.com
 0.0.0.0 praddpro.de
 0.0.0.0 prclick.inmobi.com
 0.0.0.0 prebid.adnxs.com
@@ -12307,6 +12319,7 @@
 0.0.0.0 www.s-jsonp.moatads.com
 0.0.0.0 www.s.update.moatads.com
 0.0.0.0 www.s1a.dynamicyield.com
+0.0.0.0 www.safedk.com
 0.0.0.0 www.sales-live-events1.use.dynamicyield.com
 0.0.0.0 www.saspreview.com
 0.0.0.0 www.sc-analytics.appspot.com
