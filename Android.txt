@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.9
-# Updated: Mon, 18 Mar 17:30:25
+# Version: 3.0.8.10
+# Updated: Tue, 19 Mar 20:30:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -1102,6 +1102,7 @@
 0.0.0.0 ads.infi.net
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.instabid.tech
+0.0.0.0 ads.internal.unity3d.com
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.isoftmarketing.com
@@ -1241,6 +1242,7 @@
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pof.com
 0.0.0.0 ads.powweb.com
+0.0.0.0 ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.primissima.it
 0.0.0.0 ads.printscr.com
 0.0.0.0 ads.prisacom.com
@@ -1721,6 +1723,7 @@
 0.0.0.0 adswizz.com 
 0.0.0.0 adswizz.net 
 0.0.0.0 adsx.greystripe.com
+0.0.0.0 adsx.unityads.unity3d.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.chinacloudapp.cn
@@ -1965,6 +1968,7 @@
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 alogsus.umeng.com
 0.0.0.0 alogus.umeng.com
+0.0.0.0 alpha-analytics.toast.com
 0.0.0.0 alpha-assets.adcolony.com
 0.0.0.0 alpha.telemetry.microsft.com
 0.0.0.0 als.baidu.com
@@ -5172,7 +5176,6 @@
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 changelog.taplytics.com
 0.0.0.0 charm.inmobi.com
-0.0.0.0 chart.apis.google.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
 0.0.0.0 chartboost.com
@@ -5187,6 +5190,7 @@
 0.0.0.0 chi2only.outbrain.com
 0.0.0.0 chidc2.outbrain.org
 0.0.0.0 chidc2vr.outbrain.com
+0.0.0.0 china-cdn.unityads.unity3d.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 china.smartadserver.com
 0.0.0.0 choice.microsoft.com.nsatc.net
@@ -6900,6 +6904,7 @@
 0.0.0.0 huodong.umeng.com
 0.0.0.0 huodong.xiaomi.com
 0.0.0.0 huosai.xiaomi.com
+0.0.0.0 hwstats.uca.cloud.unity3d.com
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hybird.rayjump.com
 0.0.0.0 hybl9bazbc35.pflexads.com
@@ -6982,6 +6987,7 @@
 0.0.0.0 idpix.media6degrees.com
 0.0.0.0 ids1.deliver.ifeng.com
 0.0.0.0 idsync.rlcdn.com
+0.0.0.0 ie.unityads.unity3d.com
 0.0.0.0 ifappbox.msafe.data.360safe.com
 0.0.0.0 ifc-ep.inmobi.com
 0.0.0.0 ifc-iip.w.inmobi.com
@@ -7058,7 +7064,6 @@
 0.0.0.0 images.yad2.co.il
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 imarkets.co.il
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imces.dfw1.vip.inmobi.com
 0.0.0.0 imces.inmobi.com
 0.0.0.0 imces.vip.lhr1.inmobi.com
@@ -7563,6 +7568,7 @@
 0.0.0.0 loading321.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loc.map.baidu.com
+0.0.0.0 local.unityads.unity3d.com
 0.0.0.0 localytics.com
 0.0.0.0 location.wynk.in
 0.0.0.0 log-ird.outbrain.com
@@ -8309,6 +8315,7 @@
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 ngdp-staging.flurry.com
+0.0.0.0 nginx-auction-prd.ads.internal.unity3d.com
 0.0.0.0 nhanthuong88.com
 0.0.0.0 nhz.adwo.com
 0.0.0.0 nickhel.com
@@ -8879,7 +8886,6 @@
 0.0.0.0 platform.cloud-iq.com.au
 0.0.0.0 platform.ifc.inmobi.com
 0.0.0.0 platform.mobileapptracking.com
-0.0.0.0 platform.twitter.com
 0.0.0.0 play.gamezop.com
 0.0.0.0 player.aniview.com
 0.0.0.0 player.ooyala.com
@@ -9544,7 +9550,6 @@
 0.0.0.0 scout.scoutanalytics.net
 0.0.0.0 scoutanalytics.net
 0.0.0.0 scr.diningrewardsclub.net
-0.0.0.0 scribe.twitter.com
 0.0.0.0 script.ioam.de
 0.0.0.0 script.novanet.vn
 0.0.0.0 scripts.demandbase.com
@@ -10232,6 +10237,7 @@
 0.0.0.0 staging.getadmiral.com
 0.0.0.0 staging.newrelic.com
 0.0.0.0 staging.tyroocentral.com
+0.0.0.0 staging.unityads.unity3d.com
 0.0.0.0 staging.wootric.com
 0.0.0.0 staging1.dynamicyield.com
 0.0.0.0 staging2.dynamicyield.com
@@ -10633,6 +10639,7 @@
 0.0.0.0 steelhousemedia.com
 0.0.0.0 stg-ads.inmobi.com
 0.0.0.0 stg-ua.inmobi.com
+0.0.0.0 stg.ads.internal.unity3d.com
 0.0.0.0 stg.oem.inmobi.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stjjp.msn.com
@@ -10759,7 +10766,6 @@
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.trafficreps.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 synthetics.newrelic.com
 0.0.0.0 syo.adjustnetwork.com
 0.0.0.0 sypi.gpshopper.com
@@ -11014,7 +11020,6 @@
 0.0.0.0 tiles.cdn.mozilla.net
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 tileswan.cmcm.com
-0.0.0.0 time.izatcloud.net
 0.0.0.0 tip-ads.de
 0.0.0.0 tip.atdmt.com
 0.0.0.0 tipo.mobi
@@ -12046,6 +12051,7 @@
 0.0.0.0 www.appnext.com
 0.0.0.0 www.appnexus.com
 0.0.0.0 www.appodeal.herokuapp.com
+0.0.0.0 www.appodealx.com
 0.0.0.0 www.appsflyer.com
 0.0.0.0 www.appspot.com
 0.0.0.0 www.appuu.cn
@@ -12528,9 +12534,6 @@
 0.0.0.0 xs.swagger1.com
 0.0.0.0 xsdk.adkmob.com
 0.0.0.0 xshare.api.xiaomi.com
-0.0.0.0 xtrapath1.izatcloud.net
-0.0.0.0 xtrapath2.izatcloud.net
-0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 xwbe.wcdn.co.il
 0.0.0.0 y.analytics.yahoo.com
