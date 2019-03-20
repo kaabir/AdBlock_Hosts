@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.10
-# Updated: Tue, 19 Mar 20:30:25
+# Version: 3.0.8.11
+# Updated: Wed, 20 Mar 17:09:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -691,6 +691,7 @@
 0.0.0.0 admin.applicaster.com
 0.0.0.0 admin.appnext.com
 0.0.0.0 admin.chartboost.com
+0.0.0.0 admin.corp.mparticle.com
 0.0.0.0 admin.flurry.com
 0.0.0.0 admin.mpx.mopub.com
 0.0.0.0 admin.ugra.in
@@ -3846,6 +3847,7 @@
 0.0.0.0 appengage-video.staging.fyber.com
 0.0.0.0 appetizers.appsee.com
 0.0.0.0 appgalleries.inmobi.com
+0.0.0.0 appgrowth.appsee.com
 0.0.0.0 appinstall.presage.io
 0.0.0.0 appintop.com
 0.0.0.0 applifier.com
@@ -3895,6 +3897,7 @@
 0.0.0.0 appsbeta.pubmatic.com
 0.0.0.0 appsdev.appsflyer.com
 0.0.0.0 appsdt.com
+0.0.0.0 appsee.com
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com
 0.0.0.0 appservestar.com
@@ -4725,6 +4728,13 @@
 0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 cdn-eu.mouseflow.com
 0.0.0.0 cdn-f.adsmoloco.com
+0.0.0.0 cdn-fastly-001.traffic-director-alias.krxd.net
+0.0.0.0 cdn-fastly-002.traffic-director-alias.krxd.net
+0.0.0.0 cdn-fastly-003.traffic-director-alias.krxd.net
+0.0.0.0 cdn-fastly-004.traffic-director-alias.krxd.net
+0.0.0.0 cdn-fastly-006.traffic-director-alias.krxd.net
+0.0.0.0 cdn-fastly-008.traffic-director-alias.krxd.net
+0.0.0.0 cdn-fastly-009.traffic-director-alias.krxd.net
 0.0.0.0 cdn-fastly.krxd.net
 0.0.0.0 cdn-fb.vizury.com
 0.0.0.0 cdn-gl.imrworldwide.com
@@ -5352,6 +5362,7 @@
 0.0.0.0 cloudflame.co.il
 0.0.0.0 cloudflare.cdneval.adnxs.com
 0.0.0.0 cloudfront-labs.amazonaws.com
+0.0.0.0 cloudfront.loggly.com
 0.0.0.0 cloudmobi.net
 0.0.0.0 cloudservice12.kingsoft-office-service.com
 0.0.0.0 cloudservice13.kingsoft-office-service.com
@@ -5533,6 +5544,7 @@
 0.0.0.0 convhkmp.taboola.com
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 cookie.vrtzads.com
+0.0.0.0 cookiesync.mparticle.com
 0.0.0.0 cooladata.com
 0.0.0.0 cooloffers.co.il
 0.0.0.0 coopermedia.go2affise.com
@@ -5543,6 +5555,8 @@
 0.0.0.0 coremetrics.com
 0.0.0.0 corp.flurry.com
 0.0.0.0 corp.inmobi.com
+0.0.0.0 corp.leanplum.com
+0.0.0.0 corp.mparticle.com
 0.0.0.0 corp.outbrain.com
 0.0.0.0 correspond.tapjoy.com
 0.0.0.0 cosmos.inmobi.com
@@ -6498,6 +6512,11 @@
 0.0.0.0 foreman-a002-dub.krxd.net
 0.0.0.0 foreman-a002-pdx.krxd.net
 0.0.0.0 foreman-a003-ash.krxd.net
+0.0.0.0 foreman-a003-dub.krxd.net
+0.0.0.0 foreman-a003-pdx.krxd.net
+0.0.0.0 foreman-a004-ash.krxd.net
+0.0.0.0 foreman-a004-dub.krxd.net
+0.0.0.0 foreman-a004-pdx.krxd.net
 0.0.0.0 foreman-ash.krxd.net
 0.0.0.0 foreman-dub.krxd.net
 0.0.0.0 foreman-internal-ash.krxd.net
@@ -6594,6 +6613,7 @@
 0.0.0.0 gdown.baidu.com
 0.0.0.0 gdpr.adjust.com
 0.0.0.0 gdpr.branch.io
+0.0.0.0 gdprmedtest.nexage.com
 0.0.0.0 gdwbetvn888.com
 0.0.0.0 gdwviet.com
 0.0.0.0 gecko-sg.byteoversea.com
@@ -6684,6 +6704,7 @@
 0.0.0.0 go.automatad.com
 0.0.0.0 go.branch.io
 0.0.0.0 go.corp.mixpanel.com
+0.0.0.0 go.leanplum.com
 0.0.0.0 go.localytics.com
 0.0.0.0 go.mobpartner.mobi
 0.0.0.0 go.mobstitial.com
@@ -7638,6 +7659,7 @@
 0.0.0.0 logs.gaana.com
 0.0.0.0 logs.juspay.in
 0.0.0.0 logs.locarta.co
+0.0.0.0 logs.loggly.com
 0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.supersonic.com
@@ -8658,6 +8680,7 @@
 0.0.0.0 permutive.com
 0.0.0.0 persona.ly
 0.0.0.0 petitionermaster.appspot.com
+0.0.0.0 phabricator.leanplum.com
 0.0.0.0 phando.digit.in
 0.0.0.0 philadelphia.in-viacom18.videoplaza.tv
 0.0.0.0 phillateemis.iad-03.braze.com
@@ -9264,6 +9287,7 @@
 0.0.0.0 reports.appsflyer.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.inmobi.com
+0.0.0.0 reports.leanplum.com
 0.0.0.0 reports.nexage.com
 0.0.0.0 reports.smartadserver.com
 0.0.0.0 req.appads.com
@@ -10892,6 +10916,7 @@
 0.0.0.0 tags.us.onscroll.com
 0.0.0.0 tags.w55c.net
 0.0.0.0 tags4.revdepo.com
+0.0.0.0 tail.loggly.com
 0.0.0.0 tali.iad-03.braze.com
 0.0.0.0 tam.outbrain.com
 0.0.0.0 tangerine.nexage.com
@@ -11834,6 +11859,7 @@
 0.0.0.0 wiki.adcolony.com
 0.0.0.0 wiki.appboy.com
 0.0.0.0 wiki.appnext.com
+0.0.0.0 wiki.corp.leanplum.com
 0.0.0.0 wiki.flurry.com
 0.0.0.0 wiki.outbrain.com
 0.0.0.0 wikia-ads.wikia.com
@@ -12052,6 +12078,7 @@
 0.0.0.0 www.appnexus.com
 0.0.0.0 www.appodeal.herokuapp.com
 0.0.0.0 www.appodealx.com
+0.0.0.0 www.appsee.com
 0.0.0.0 www.appsflyer.com
 0.0.0.0 www.appspot.com
 0.0.0.0 www.appuu.cn
@@ -12203,6 +12230,7 @@
 0.0.0.0 www.iadsdk.apple.com
 0.0.0.0 www.iam-preprod.inmobi.com
 0.0.0.0 www.iam.inmobi.com
+0.0.0.0 www.identity.mparticle.com
 0.0.0.0 www.idp.ops.inmobi.com
 0.0.0.0 www.ieplads.com
 0.0.0.0 www.ifc-ep.inmobi.com
@@ -12250,7 +12278,9 @@
 0.0.0.0 www.ligatus.com
 0.0.0.0 www.liking.co.kr
 0.0.0.0 www.link.dynamicyield.com
+0.0.0.0 www.link.krxd.net
 0.0.0.0 www.localytics.com
+0.0.0.0 www.loggly.com
 0.0.0.0 www.loki.corp.inmobi.com
 0.0.0.0 www.lp.outbrain.com
 0.0.0.0 www.mad-me.com
