@@ -2,33 +2,39 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.11
-# Updated: Wed, 20 Mar 17:09:25
+# Version: 3.0.8.12
+# Updated: Thu, 21 Mar 17:23:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
 0.0.0.0 0127.adsame.com
 0.0.0.0 10034.engine.mobileapptracking.com
+0.0.0.0 10147.engine.mobileapptracking.com
 0.0.0.0 10148.engine.mobileapptracking.com
 0.0.0.0 10402.engine.mobileapptracking.com
+0.0.0.0 11262.engine.mobileapptracking.com
 0.0.0.0 114study.adsame.com
 0.0.0.0 13146.engine.mobileapptracking.com
 0.0.0.0 13700.engine.mobileapptracking.com
 0.0.0.0 144558.ubermeasure.com
+0.0.0.0 14716.engine.mobileapptracking.com
 0.0.0.0 15416.engine.mobileapptracking.com
 0.0.0.0 15486.engine.mobileapptracking.com
 0.0.0.0 15520.engine.mobileapptracking.com
 0.0.0.0 15618.engine.mobileapptracking.com
 0.0.0.0 159126.engine.mobileapptracking.com
+0.0.0.0 161118.engine.mobileapptracking.com
 0.0.0.0 164772.engine.mobileapptracking.com
 0.0.0.0 16522.engine.mobileapptracking.com
 0.0.0.0 167126.engine.mobileapptracking.com
 0.0.0.0 1681.engine.mobileapptracking.com
 0.0.0.0 16948.engine.mobileapptracking.com
+0.0.0.0 16954.engine.mobileapptracking.com
 0.0.0.0 169860.engine.mobileapptracking.com
 0.0.0.0 17058.engine.mobileapptracking.com
 0.0.0.0 170702.engine.mobileapptracking.com
 0.0.0.0 173514.engine.mobileapptracking.com
+0.0.0.0 17428.engine.mobileapptracking.com
 0.0.0.0 174840.engine.mobileapptracking.com
 0.0.0.0 175038.engine.mobileapptracking.com
 0.0.0.0 1757173384.rsc.cdn77.org
@@ -36,7 +42,10 @@
 0.0.0.0 178852.engine.mobileapptracking.com
 0.0.0.0 1835.engine.mobileapptracking.com
 0.0.0.0 183704.engine.mobileapptracking.com
+0.0.0.0 18384.engine.mobileapptracking.com
+0.0.0.0 186576.engine.mobileapptracking.com
 0.0.0.0 188820.engine.mobileapptracking.com
+0.0.0.0 189060.engine.mobileapptracking.com
 0.0.0.0 189288.engine.mobileapptracking.com
 0.0.0.0 189358.engine.mobileapptracking.com
 0.0.0.0 189570.engine.mobileapptracking.com
@@ -59,10 +68,13 @@
 0.0.0.0 192341.engine.mobileapptracking.com
 0.0.0.0 192351.engine.mobileapptracking.com
 0.0.0.0 192572.engine.mobileapptracking.com
+0.0.0.0 192596.engine.mobileapptracking.com
+0.0.0.0 192794.engine.mobileapptracking.com
 0.0.0.0 193251.engine.mobileapptracking.com
 0.0.0.0 194192.engine.mobileapptracking.com
 0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 194985.engine.mobileapptracking.com
+0.0.0.0 195043.engine.mobileapptracking.com
 0.0.0.0 197423.engine.mobileapptracking.com
 0.0.0.0 197876.engine.mobileapptracking.com
 0.0.0.0 198935.engine.mobileapptracking.com
@@ -75,6 +87,8 @@
 0.0.0.0 20272.engine.mobileapptracking.com
 0.0.0.0 20298.engine.mobileapptracking.com
 0.0.0.0 20il.co.il
+0.0.0.0 2191.engine.mobileapptracking.com
+0.0.0.0 22006.engine.mobileapptracking.com
 0.0.0.0 22254.engine.mobileapptracking.com
 0.0.0.0 22928.engine.mobileapptracking.com
 0.0.0.0 23194.engine.mobileapptracking.com
@@ -84,6 +98,8 @@
 0.0.0.0 284419414.log.optimizely.com
 0.0.0.0 2968.engine.mobileapptracking.com
 0.0.0.0 2eat.co.il
+0.0.0.0 3444.engine.mobileapptracking.com
+0.0.0.0 3612.engine.mobileapptracking.com
 0.0.0.0 3d435cd34347e255ef1536bfbd72413c.api.appsee.com
 0.0.0.0 3dots.co.il
 0.0.0.0 3p.ampproject.net
@@ -1782,6 +1798,7 @@
 0.0.0.0 adv.madserving.com
 0.0.0.0 adv.mxmcdn.net
 0.0.0.0 adv.nexthardware.com
+0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 adv.webmd.com
 0.0.0.0 adv.wp.pl
@@ -12299,6 +12316,7 @@
 0.0.0.0 www.mmnetwork.mobi
 0.0.0.0 www.moatads.com
 0.0.0.0 www.mobfox.com
+0.0.0.0 www.mobileapptracking.com
 0.0.0.0 www.money4exit.de
 0.0.0.0 www.moondownload.com
 0.0.0.0 www.mopub.com
