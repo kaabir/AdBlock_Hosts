@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.14
-# Updated: Sun, 31 Mar 00:23:25
+# Version: 3.0.8.15
+# Updated: Tue, 02 Apr 00:23:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -3286,6 +3286,13 @@
 0.0.0.0 api.launcher.intl.miui.com
 0.0.0.0 api.lazyswipe.com
 0.0.0.0 api.lbesecapi.com
+0.0.0.0 api.lbl11.prd.nyc2.areametrics.com
+0.0.0.0 api.lbl12.prd.nyc2.areametrics.com
+0.0.0.0 api.lbl13.prd.nyc2.areametrics.com
+0.0.0.0 api.lbl14.prd.nyc2.areametrics.com
+0.0.0.0 api.lbl15.prd.nyc2.areametrics.com
+0.0.0.0 api.lbl16.prd.nyc2.areametrics.com
+0.0.0.0 api.lbl17.prd.nyc2.areametrics.com
 0.0.0.0 api.lce9v.com
 0.0.0.0 api.leadbolt.com
 0.0.0.0 api.leadbolt.net
@@ -3814,6 +3821,7 @@
 0.0.0.0 app-benchmarks.adjust.com
 0.0.0.0 app-config.enhance.co
 0.0.0.0 app-dynamics.com 
+0.0.0.0 app-icons.apptentive.com
 0.0.0.0 app-m.marketo.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-n.marketo.com
@@ -3939,8 +3947,10 @@
 0.0.0.0 appnexus-rtb.liftoff.io
 0.0.0.0 appnexus.com
 0.0.0.0 appnexus.net
+0.0.0.0 appodeal-east-bidder.manage.com
 0.0.0.0 appodeal.com
 0.0.0.0 appodeal.herokuapp.com
+0.0.0.0 appodealx-eu.appgrowth.com
 0.0.0.0 appodealx.com
 0.0.0.0 apportal.airpush.com
 0.0.0.0 appres.camera360.com
@@ -3978,6 +3988,7 @@
 0.0.0.0 appstore.cdn.pandora.xiaomi.com
 0.0.0.0 appstore.naver.com
 0.0.0.0 appstore.pandora.xiaomi.com
+0.0.0.0 apptentive.com
 0.0.0.0 apptest.thinkyeah.com
 0.0.0.0 apptimize.com
 0.0.0.0 apptornado.com
@@ -4006,6 +4017,7 @@
 0.0.0.0 ar.umeng.com
 0.0.0.0 archive.adjust.io
 0.0.0.0 arcomobi.go2affise.com
+0.0.0.0 areametrics.com
 0.0.0.0 artia-analytics.com
 0.0.0.0 article.yedioth.co.il
 0.0.0.0 artifactory.corp.mixpanel.com
@@ -4424,6 +4436,7 @@
 0.0.0.0 blockadblock.com
 0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 blog.appnext.com
+0.0.0.0 blog.areametrics.com
 0.0.0.0 blog.crashlytics.com
 0.0.0.0 blog.mixpanel.com
 0.0.0.0 blog.outbrain.com
@@ -6339,6 +6352,7 @@
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eu-ads.adiquity.com
+0.0.0.0 eu-central-1.appodeal.com
 0.0.0.0 eu-ma.sam4m.com
 0.0.0.0 eu.newrelic.com
 0.0.0.0 eu.vortex-win.data.microsft.com
@@ -7793,6 +7807,9 @@
 0.0.0.0 logtest.moatads.com
 0.0.0.0 logua.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 logw312.ati-host.net
+0.0.0.0 logw349.ati-host.net
+0.0.0.0 logws1360.ati-host.net
 0.0.0.0 logx.optimizely.com
 0.0.0.0 loki.corp.inmobi.com
 0.0.0.0 lol.vungle.com
@@ -9158,6 +9175,7 @@
 0.0.0.0 product.atom.adjust.com
 0.0.0.0 productads.sokrati.com
 0.0.0.0 productanalyticsplaybook.amplitude.com
+0.0.0.0 production-api.areametrics.com
 0.0.0.0 production-ultimate-assets.ratecity.com.au
 0.0.0.0 production.wootric.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
@@ -12290,6 +12308,7 @@
 0.0.0.0 www.apptimize.com
 0.0.0.0 www.appuu.cn
 0.0.0.0 www.apx.moatads.com
+0.0.0.0 www.areametrics.com
 0.0.0.0 www.atinternet.com
 0.0.0.0 www.audiencemanager.de
 0.0.0.0 www.auto-px.dynamicyield.com
@@ -12848,6 +12867,7 @@
 0.0.0.0 z.webengage.com
 0.0.0.0 z1.zedo.com
 0.0.0.0 za-ads.de
+0.0.0.0 zabbix.appodeal.com
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zaloapp.ads.zdn.vn
 0.0.0.0 zamora.axiatraders.com
