@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.15
-# Updated: Tue, 02 Apr 00:23:25
+# Version: 3.0.8.16
+# Updated: Fri, 05 Apr 13:55:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -18,6 +18,7 @@
 0.0.0.0 13700.engine.mobileapptracking.com
 0.0.0.0 144558.ubermeasure.com
 0.0.0.0 14716.engine.mobileapptracking.com
+0.0.0.0 15.taboola.com
 0.0.0.0 15416.engine.mobileapptracking.com
 0.0.0.0 15486.engine.mobileapptracking.com
 0.0.0.0 15520.engine.mobileapptracking.com
@@ -268,6 +269,7 @@
 0.0.0.0 accounts.appboy.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ach.appodeal.com
+0.0.0.0 aclick.adhoc2.net
 0.0.0.0 aclickoooo.host
 0.0.0.0 acookie.alimama.com
 0.0.0.0 acp.fyber.com
@@ -1784,6 +1786,7 @@
 0.0.0.0 adtrack.king.com
 0.0.0.0 adtrack1.midasplayer.com
 0.0.0.0 adtracker.inmobi.com
+0.0.0.0 adtracker.inmobi.com3
 0.0.0.0 adtrackers.net
 0.0.0.0 adtrade.net
 0.0.0.0 adtrak.net
@@ -3469,6 +3472,7 @@
 0.0.0.0 api.pubmatic.com
 0.0.0.0 api.pubnative.net
 0.0.0.0 api.pubwise.io
+0.0.0.0 api.pushbullet.com
 0.0.0.0 api.pushspring.com
 0.0.0.0 api.pushwoosh.com
 0.0.0.0 api.pzoifaum.info
@@ -5176,6 +5180,7 @@
 0.0.0.0 cdn25.vizury.com
 0.0.0.0 cdn28.vizury.com
 0.0.0.0 cdn3-f1.stickyadstv.com
+0.0.0.0 cdn3-scripts1.widespace.com
 0.0.0.0 cdn3.appnext.com
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn3.fyber.com
@@ -6334,6 +6339,7 @@
 0.0.0.0 ero-advertising.com
 0.0.0.0 error.facebook.com
 0.0.0.0 ers.baidu.com
+0.0.0.0 esd-secure.taboola.com.edgekey.net
 0.0.0.0 espresso.economist.com
 0.0.0.0 estrongs.com
 0.0.0.0 et-cn.apac.gslb.inmobi.com
@@ -6382,6 +6388,7 @@
 0.0.0.0 eventlog.beacon.qq.com
 0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events.adjust.com
+0.0.0.0 events.aerserv.com
 0.0.0.0 events.amplitude.com
 0.0.0.0 events.appflyer.com
 0.0.0.0 events.appnext.com
@@ -7379,6 +7386,7 @@
 0.0.0.0 innocean-insight.adsrvr.org
 0.0.0.0 input.mozilla.com
 0.0.0.0 inscname.net
+0.0.0.0 inscreen.widespace.com
 0.0.0.0 insidesecure.count.ly
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insight.ants.vn
@@ -8054,6 +8062,7 @@
 0.0.0.0 mediaplanner.uat.inmobi.com
 0.0.0.0 mediaprima.deliveryengine.adswizz.com
 0.0.0.0 mediapro.pro.cn
+0.0.0.0 medias.cloud.ogury.io
 0.0.0.0 medias.presage.io
 0.0.0.0 mediaserver.bwinpartypartners.it
 0.0.0.0 mediate.mediabrix.com
@@ -8511,6 +8520,7 @@
 0.0.0.0 npr.streaming.adswizz.com
 0.0.0.0 nqs.nice264.com
 0.0.0.0 nr-data.net
+0.0.0.0 nr.taboola.com
 0.0.0.0 nrc.ds.duapps.com
 0.0.0.0 nrc.sd.duapps.com
 0.0.0.0 nrc.tapas.net
@@ -8764,6 +8774,7 @@
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
 0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
@@ -9169,8 +9180,10 @@
 0.0.0.0 prod-m-node-1212.nexage.com
 0.0.0.0 prod.apptimize.com
 0.0.0.0 prod.branch.io
+0.0.0.0 prod.contextweb.map.fastlylb.net
 0.0.0.0 prod.millennialmedia.com
 0.0.0.0 prod.outbrain.map.fastlylb.net
+0.0.0.0 prod.taboola.map.fastly.net
 0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 product.atom.adjust.com
 0.0.0.0 productads.sokrati.com
@@ -9279,6 +9292,7 @@
 0.0.0.0 px.powerlinks.com
 0.0.0.0 px2.moatads.com
 0.0.0.0 px2m.moatads.com
+0.0.0.0 pxj-0.tlnk.io
 0.0.0.0 pxl.bidvertiser.com
 0.0.0.0 pxl.connexity.net
 0.0.0.0 pxl.idx.admaster.com.cn
@@ -10126,10 +10140,12 @@
 0.0.0.0 servertest.mgid.com
 0.0.0.0 service-api.kingsoft-office-service.com
 0.0.0.0 service.ad.duomi.com
+0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.dr.newrelic.com
 0.0.0.0 service.eu.newrelic.com
 0.0.0.0 service.face2trade.com
 0.0.0.0 service.fyber.com
+0.0.0.0 service.game-mode.net
 0.0.0.0 service.innovid.com
 0.0.0.0 service.jiagu.360.cn
 0.0.0.0 service.maxymiser.net
@@ -10598,6 +10614,7 @@
 0.0.0.0 static.vilynx.com
 0.0.0.0 static.wixstatic.com
 0.0.0.0 static.wizrocket.com
+0.0.0.0 static.ws-cdn.com
 0.0.0.0 static.yieldmo.com
 0.0.0.0 static.yomedia.vn
 0.0.0.0 static.youappi.com
@@ -11093,6 +11110,7 @@
 0.0.0.0 tableau.dashboard.ligatus.com
 0.0.0.0 taboola-d.openx.net
 0.0.0.0 taboola.com
+0.0.0.0 taboola.com.edgekey.net
 0.0.0.0 taboolasyndication.com
 0.0.0.0 tag-abe.cartrawler.com
 0.0.0.0 tag-mediation.supersonic.com
@@ -11480,6 +11498,7 @@
 0.0.0.0 trax-ad.jp
 0.0.0.0 trc.adsage.com
 0.0.0.0 trc.taboola.com
+0.0.0.0 trc.taboola.map.fastly.net
 0.0.0.0 trc.taboolasyndication.com
 0.0.0.0 treemedia.co.il
 0.0.0.0 trem.dynamicyield.com
@@ -11658,6 +11677,7 @@
 0.0.0.0 upv4.moatads.com
 0.0.0.0 urbanairship.com
 0.0.0.0 urbn-live-stream-feeds.dynamicyield.com
+0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 url.ds.duapps.com
 0.0.0.0 us-ads.adiquity.com
 0.0.0.0 us-ads.openx.net
@@ -12070,6 +12090,7 @@
 0.0.0.0 widget.criteo.com
 0.0.0.0 widget.fitanalytics.com
 0.0.0.0 widget.outbrain.com
+0.0.0.0 widget.pushbullet.com
 0.0.0.0 widget.subiz.com
 0.0.0.0 widget.twojapogoda.pl
 0.0.0.0 widgetbucks.com
@@ -12273,6 +12294,7 @@
 0.0.0.0 www.alpha-assets.adcolony.com
 0.0.0.0 www.amplify.amplitude.com
 0.0.0.0 www.amplitude.com
+0.0.0.0 www.analytic-google.com
 0.0.0.0 www.analytics-logs.club
 0.0.0.0 www.analytics.blue
 0.0.0.0 www.analytics.glance.inmobi.com
@@ -12293,6 +12315,7 @@
 0.0.0.0 www.api.intel.dynamicyield.com
 0.0.0.0 www.api.mixpanel.com
 0.0.0.0 www.api.static.xtify.com
+0.0.0.0 www.api.taboola.com
 0.0.0.0 www.api.xtify.com
 0.0.0.0 www.app-measurement.com
 0.0.0.0 www.appboy.com
@@ -12332,6 +12355,7 @@
 0.0.0.0 www.buzzclicks.com
 0.0.0.0 www.bw.bidder.inmobi.com
 0.0.0.0 www.c2.popads.net
+0.0.0.0 www.c2.taboola.com
 0.0.0.0 www.c4d-cdn.adcolony.com
 0.0.0.0 www.calcalist.co.il
 0.0.0.0 www.camsoda.com
@@ -12344,6 +12368,8 @@
 0.0.0.0 www.cdn.dynamicyield.com
 0.0.0.0 www.cdn.pubnative.net
 0.0.0.0 www.cdn.socialannex.com
+0.0.0.0 www.cdn.taboola.com
+0.0.0.0 www.cdn.taboolasyndication.com
 0.0.0.0 www.chacomedia.com
 0.0.0.0 www.chartboost.com
 0.0.0.0 www.chaturbate.com
@@ -12403,6 +12429,7 @@
 0.0.0.0 www.eng.tapjoy.com
 0.0.0.0 www.engineering.chartboost.com
 0.0.0.0 www.ep.ifc.inmobi.com
+0.0.0.0 www.esd-secure.taboola.com.edgekey.net
 0.0.0.0 www.estrongs.com
 0.0.0.0 www.et-integration.dynamicyield.com
 0.0.0.0 www.events.amplitude.com
@@ -12466,6 +12493,7 @@
 0.0.0.0 www.ifc.auth.inmobi.com
 0.0.0.0 www.ifc3.inmobi.com
 0.0.0.0 www.ima3vpaid.appspot.com
+0.0.0.0 www.images.taboola.com
 0.0.0.0 www.imces.inmobi.com
 0.0.0.0 www.imgurads.com
 0.0.0.0 www.in.analytics.glance.inmobi.com
@@ -12584,6 +12612,7 @@
 0.0.0.0 www.pool8.moatads.com
 0.0.0.0 www.pool9.moatads.com
 0.0.0.0 www.popads.net
+0.0.0.0 www.popup.taboola.com
 0.0.0.0 www.powertradeprofit.com
 0.0.0.0 www.prclick.inmobi.com
 0.0.0.0 www.presage.io
@@ -12681,6 +12710,8 @@
 0.0.0.0 www.sweeney.appboy.com
 0.0.0.0 www.t-analytics.com
 0.0.0.0 www.taboola.com
+0.0.0.0 www.taboola.com.edgekey.net
+0.0.0.0 www.taboolasyndication.com
 0.0.0.0 www.tapad.com
 0.0.0.0 www.tapjoy.com
 0.0.0.0 www.tapresearch.com
@@ -12693,6 +12724,7 @@
 0.0.0.0 www.token.corp.inmobi.com
 0.0.0.0 www.tradersbrokers.com
 0.0.0.0 www.traffic-media.co.uk
+0.0.0.0 www.trc.taboola.com
 0.0.0.0 www.trem.dynamicyield.com
 0.0.0.0 www.trilithonanalytics.com
 0.0.0.0 www.try.appboy.com
@@ -12707,6 +12739,8 @@
 0.0.0.0 www.uqemcyylvcdrgs.com
 0.0.0.0 www.urbanairship.com
 0.0.0.0 www.urbn-live-stream-feeds.dynamicyield.com
+0.0.0.0 www.urc.taboolasyndication.com
+0.0.0.0 www.us-u.openx.net
 0.0.0.0 www.usekahuna.com
 0.0.0.0 www.ushareit.cn
 0.0.0.0 www.uyunad.com
