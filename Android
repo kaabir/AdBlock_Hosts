@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.16
-# Updated: Fri, 05 Apr 13:55:25
+# Version: 3.0.8.17
+# Updated: Fri, 07 Apr 17:55:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -3542,6 +3542,7 @@
 0.0.0.0 api.share.mob.com
 0.0.0.0 api.shareasale.com
 0.0.0.0 api.shared.env.sandbox53.localytics.com
+0.0.0.0 api.shareitgames.com
 0.0.0.0 api.sharethis.com
 0.0.0.0 api.shoppingminds.net
 0.0.0.0 api.shuzilm.cn
@@ -5172,6 +5173,7 @@
 0.0.0.0 cdn2.mxpnl.com
 0.0.0.0 cdn2.reporo.net
 0.0.0.0 cdn2.sailfish.media
+0.0.0.0 cdn2.shareitgames.com
 0.0.0.0 cdn2.smartadserver.com
 0.0.0.0 cdn2.sponsorpay.com
 0.0.0.0 cdn2.stickyadstv.com
@@ -5268,6 +5270,7 @@
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 cf-npr.streaming.adswizz.com
 0.0.0.0 cf.cdn.inmobi.com
+0.0.0.0 cf.hermes.wshareit.com
 0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cf.nordcurrent.com
 0.0.0.0 cf.ushareit.com
@@ -5492,6 +5495,7 @@
 0.0.0.0 cm.pos.baidu.com
 0.0.0.0 cm.steepto.com
 0.0.0.0 cm.ushareit.com
+0.0.0.0 cmd.hermes.wshareit.com
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 cmi.flurry.com
 0.0.0.0 cmi.netseer.com
@@ -9268,6 +9272,7 @@
 0.0.0.0 puppet.aws.branch.io
 0.0.0.0 puppetdb.aws.branch.io
 0.0.0.0 pups.baidu.com
+0.0.0.0 push-cdn.wshareit.com
 0.0.0.0 push.360overseas.com
 0.0.0.0 push.apusapps.com
 0.0.0.0 push.vmate.in
