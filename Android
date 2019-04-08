@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.17
-# Updated: Fri, 07 Apr 17:55:25
+# Version: 3.0.8.18
+# Updated: Mon, 08 Apr 17:55:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -881,6 +881,7 @@
 0.0.0.0 ads.5ci.lt
 0.0.0.0 ads.8live.com
 0.0.0.0 ads.abovetopsecret.com
+0.0.0.0 ads.ac.uk
 0.0.0.0 ads.aceweb.net
 0.0.0.0 ads.activestate.com
 0.0.0.0 ads.actnx.com
@@ -921,6 +922,7 @@
 0.0.0.0 ads.alphonso.tv
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.altitude-arena.com
+0.0.0.0 ads.am
 0.0.0.0 ads.amdmb.com
 0.0.0.0 ads.amigos.com
 0.0.0.0 ads.ams.contextweb.com
@@ -953,6 +955,7 @@
 0.0.0.0 ads.betanews.com
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betfair.com.au
+0.0.0.0 ads.bigbom.com
 0.0.0.0 ads.bigchurch.com
 0.0.0.0 ads.bigfoot.com
 0.0.0.0 ads.bing.com
@@ -1209,12 +1212,14 @@
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.mp.mydas.mobi 
 0.0.0.0 ads.msn.com
+0.0.0.0 ads.msstate.edu
 0.0.0.0 ads.mtc.ace.advertising.com
 0.0.0.0 ads.multimania.lycos.fr
 0.0.0.0 ads.mydas.mobi
 0.0.0.0 ads.n-ws.org
 0.0.0.0 ads.n-ws.org 
 0.0.0.0 ads.nationalgeographic.com
+0.0.0.0 ads.nc
 0.0.0.0 ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.netflix.com
@@ -1227,6 +1232,7 @@
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.nicovideo.jp
 0.0.0.0 ads.nikkeibp.co.jp
+0.0.0.0 ads.nimses.com
 0.0.0.0 ads.ninemsn.com.au
 0.0.0.0 ads.nj.com
 0.0.0.0 ads.nl.eu.criteo.com
@@ -1261,6 +1267,7 @@
 0.0.0.0 ads.passion.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.pennet.com
+0.0.0.0 ads.penreader.com
 0.0.0.0 ads.people.com.cn
 0.0.0.0 ads.perfectaudience.com
 0.0.0.0 ads.permutive.com
@@ -1288,6 +1295,7 @@
 0.0.0.0 ads.rcs.it
 0.0.0.0 ads.rd.linksynergy.com
 0.0.0.0 ads.recoletos.es
+0.0.0.0 ads.red
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.redtube.com
@@ -1297,9 +1305,11 @@
 0.0.0.0 ads.revmobmobileadsetwork.com
 0.0.0.0 ads.reward.rakuten.jp
 0.0.0.0 ads.riversip.com
+0.0.0.0 ads.route.cc
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.s3.sitepoint.com
 0.0.0.0 ads.sabah.com.tr
+0.0.0.0 ads.safi-gmbh.ch
 0.0.0.0 ads.samba.tv
 0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.saymedia.com
@@ -1314,6 +1324,7 @@
 0.0.0.0 ads.silverdisc.co.uk
 0.0.0.0 ads.sina.com.cn
 0.0.0.0 ads.sjc.contextweb.com
+0.0.0.0 ads.sk
 0.0.0.0 ads.skorfikstur.com
 0.0.0.0 ads.smaato.net
 0.0.0.0 ads.smartclick.com
@@ -6909,6 +6920,7 @@
 0.0.0.0 gs.serving-sys.com
 0.0.0.0 gsmtop.net
 0.0.0.0 gsp1.baidu.com
+0.0.0.0 gstatic.kiwibrowser.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gstv.applause.gilbarco.com
 0.0.0.0 gts-ads.twistbox.com
@@ -7059,6 +7071,7 @@
 0.0.0.0 huodong.umeng.com
 0.0.0.0 huodong.xiaomi.com
 0.0.0.0 huosai.xiaomi.com
+0.0.0.0 huosu-static-test.shareitgames.com
 0.0.0.0 huskieaccess.bugly.qq.com
 0.0.0.0 hwstats.uca.cloud.unity3d.com
 0.0.0.0 hwstats.unity3d.com
@@ -7798,6 +7811,7 @@
 0.0.0.0 login.newrelic.com
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 logonext.tv.kuyun.com
+0.0.0.0 logos.kiwibrowser.com
 0.0.0.0 logos.outbrain.com
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs.api.vungle.com
@@ -9116,6 +9130,7 @@
 0.0.0.0 popcorn.chartboost.com
 0.0.0.0 popflawlessads.com
 0.0.0.0 popmyads.com
+0.0.0.0 popular.kiwibrowser.com
 0.0.0.0 popup.security.baidu.co.th
 0.0.0.0 popup.taboola.com
 0.0.0.0 popwebfun.com
@@ -9284,6 +9299,7 @@
 0.0.0.0 pushpin.pinsightmedia.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 pwrads.net
+0.0.0.0 pwrdoverseas.com
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 px-eu.dynamicyield.com
 0.0.0.0 px.adhigh.net
@@ -11093,6 +11109,7 @@
 0.0.0.0 t.ymlp275.net
 0.0.0.0 t.youmi.net
 0.0.0.0 t.zapr.in
+0.0.0.0 t0.kiwibrowser.com
 0.0.0.0 t1.a.market.xiaomi.com
 0.0.0.0 t1.webengage.com
 0.0.0.0 t10.baidu.com
@@ -11662,6 +11679,7 @@
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 update.client.baidu.com
 0.0.0.0 update.estrongs.com
+0.0.0.0 update.kiwibrowser.com
 0.0.0.0 update.moatads.com
 0.0.0.0 update.pan.baidu.com
 0.0.0.0 update.sdk.batmobi.net
@@ -11926,6 +11944,7 @@
 0.0.0.0 vodafonees.d2.sc.omtrdc.net
 0.0.0.0 vodafonein.demdex.net
 0.0.0.0 vodafonein.sc.omtrdc.net
+0.0.0.0 vodafoneindia.tt.omtrdc.net
 0.0.0.0 vodafoneit.sc.omtrdc.net
 0.0.0.0 vodmovies.co.il
 0.0.0.0 vodx.co.il
@@ -12689,6 +12708,7 @@
 0.0.0.0 www.st.dynamicyield.com
 0.0.0.0 www.st2.dynamicyield.com
 0.0.0.0 www.st3.dynamicyield.com
+0.0.0.0 www.stack-sonar.com
 0.0.0.0 www.staging-sidekiq-status.appboy.com
 0.0.0.0 www.staging1.dynamicyield.com
 0.0.0.0 www.staging2.dynamicyield.com
