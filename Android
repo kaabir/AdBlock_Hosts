@@ -2,8 +2,8 @@
 #	0.0.0.0    localhost
 #	::1       localhost
 # Description: A Lightweight Privacy Protection Based On Exodus Privacy List
-# Version: 3.0.8.19
-# Updated: Sun, 14 Apr 16:55:25
+# Version: 3.0.8.20
+# Updated: Sun, 30 May 13:45:25
 # CREDITS:- 
 # - https://github.com/kaabir/AdBlock_Hosts/blob/master/source.txt
 0.0.0.0 0.esfileexplorer.duapp.com
@@ -316,6 +316,7 @@
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad-souk.com
 0.0.0.0 ad-space.net
+0.0.0.0 ad-tag.inner-active.mobi
 0.0.0.0 ad-tech.com
 0.0.0.0 ad-up.com
 0.0.0.0 ad-x.co.uk
@@ -785,6 +786,7 @@
 0.0.0.0 adpepper.nl
 0.0.0.0 adperium.com
 0.0.0.0 adpia.vn
+0.0.0.0 adpick.co.kr
 0.0.0.0 adpies.com
 0.0.0.0 adping.qq.com
 0.0.0.0 adplace.adsame.com
@@ -1277,6 +1279,7 @@
 0.0.0.0 ads.phpclasses.org
 0.0.0.0 ads.pinger.com
 0.0.0.0 ads.pinterest.com
+0.0.0.0 ads.pipaffiliates.com
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pof.com
@@ -1927,6 +1930,7 @@
 0.0.0.0 adzmobi.com
 0.0.0.0 adzone.fractionalmedia.com
 0.0.0.0 adzones.com
+0.0.0.0 ae.adserver.yahoo.com
 0.0.0.0 aeventlog.beacon.qq.com
 0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 af-ad.co.uk
@@ -2003,6 +2007,7 @@
 0.0.0.0 alexametrics.com
 0.0.0.0 alicdnv2.sitemonitor.cn.miaozhen.com
 0.0.0.0 aliva-sentry.byteoversea.com
+0.0.0.0 all.fc.yahoo.com
 0.0.0.0 alladvantage.com
 0.0.0.0 alldcs-distinct.outbrain.com
 0.0.0.0 alldcs.outbrain.com
@@ -4039,6 +4044,7 @@
 0.0.0.0 apx.moatads.com
 0.0.0.0 apx.moatads.comapx.moatads.com
 0.0.0.0 apxadtracking.net
+0.0.0.0 ar.adserver.yahoo.com
 0.0.0.0 ar.ucweb.com
 0.0.0.0 ar.umeng.com
 0.0.0.0 archive.adjust.io
@@ -4122,6 +4128,7 @@
 0.0.0.0 attributer.service.newrelic.com
 0.0.0.0 attributiontracker.com
 0.0.0.0 au-cn.w.inmobi.com
+0.0.0.0 au-pn1.adserver.yahoo.com
 0.0.0.0 au-v2.presage.io
 0.0.0.0 au.ads.link4ads.com
 0.0.0.0 au.adserver.yahoo.com
@@ -4328,6 +4335,7 @@
 0.0.0.0 batchlogging4-noneu.truecaller.com
 0.0.0.0 batchlogging4.truecaller.com
 0.0.0.0 batmobil.net
+0.0.0.0 bats.video.yahoo.com
 0.0.0.0 batsavcdn.ksmobile.net
 0.0.0.0 bav.baidu.com
 0.0.0.0 bayctrk.com
@@ -4347,6 +4355,7 @@
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 bdsp.x.jd.com
 0.0.0.0 bdv.bidvertiser.com
+0.0.0.0 be.adserver.yahoo.com
 0.0.0.0 be01.hh.xiaomi.com
 0.0.0.0 beacon-a-axel-dub.lb.krxd.net
 0.0.0.0 beacon-a-dub.lb.krxd.net
@@ -4384,6 +4393,8 @@
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beap.adss.yahoo.com
+0.0.0.0 beap.adx.yahoo.com
+0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 beeline.count.ly
 0.0.0.0 beeswax.tapjoy.com
 0.0.0.0 beha.ksmobile.com
@@ -4526,6 +4537,7 @@
 0.0.0.0 boxapp.admicro.vn
 0.0.0.0 boxoffice.urbanairship.com
 0.0.0.0 bp.adkmob.com
+0.0.0.0 br.adserver.yahoo.com
 0.0.0.0 br.bav.baidu.com
 0.0.0.0 br.newrelic.com
 0.0.0.0 brahe.apptimize.com
@@ -4752,9 +4764,11 @@
 0.0.0.0 c60.smaato.net
 0.0.0.0 c753738.r38.cf2.rackcdn.com
 0.0.0.0 c7a54a18ef10e6b744d6f367a3313cfc.api.appsee.com
+0.0.0.0 ca.adserver.yahoo.com
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca.video-cdn.net
 0.0.0.0 cache-ssl.celtra.com
+0.0.0.0 cache.adserver.yahoo.com
 0.0.0.0 cache.celtra.com
 0.0.0.0 caing.adsame.com
 0.0.0.0 caixin.adsame.com
@@ -4803,6 +4817,7 @@
 0.0.0.0 cb.baidu.com
 0.0.0.0 cb.ksmobile.com
 0.0.0.0 cbjs.baidu.com
+0.0.0.0 cc.adserver.yahoo.com
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cc.sys.miui.com
 0.0.0.0 cc2.sys.intl.xiaomi.com
@@ -5299,6 +5314,7 @@
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 cf-npr.streaming.adswizz.com
+0.0.0.0 cf.adserver.yahoo.com
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 cf.hermes.wshareit.com
 0.0.0.0 cf.iadsdk.apple.com
@@ -5344,6 +5360,7 @@
 0.0.0.0 ck-cdn.com
 0.0.0.0 ck.juicyads.com
 0.0.0.0 cks.mynativeplatform.com
+0.0.0.0 cl.adserver.yahoo.com
 0.0.0.0 clarity.idsp.inmobi.com
 0.0.0.0 clarity.inmobi.com
 0.0.0.0 class-act-clicks.com
@@ -5438,6 +5455,7 @@
 0.0.0.0 clicks.beap.bc.yahoo.com
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clicks.mods.de
+0.0.0.0 clicks.pipaffiliates.com
 0.0.0.0 clicks4ads.com
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clickserve.us2.dartsearch.net
@@ -5455,6 +5473,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-api.matchinguu.com
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 client-events.inner-active.mobi
 0.0.0.0 client.midosoo.com
 0.0.0.0 client.vads.net.vn
 0.0.0.0 client.video.ucweb.com
@@ -5799,6 +5818,7 @@
 0.0.0.0 csync-tmk.smartadserver.com
 0.0.0.0 csync.smartadserver.com
 0.0.0.0 ct.niu.xunlei.com
+0.0.0.0 ct.pinterest.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 ctc.fe01.c3.xiaomi.com
 0.0.0.0 ctc.fe02.c3.xiaomi.com
@@ -6427,6 +6447,7 @@
 0.0.0.0 euwvideo.adsrvr.org
 0.0.0.0 evening-badlands-6215.herokuapp.com
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
+0.0.0.0 event-staging.inner-active.mobi
 0.0.0.0 event.adpia.vn
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.inner-active.mobi
@@ -7160,6 +7181,12 @@
 0.0.0.0 i18nmmstat.ucweb.com
 0.0.0.0 i2.myapkcdn.in
 0.0.0.0 i2ad.jp
+0.0.0.0 ia-cert.inner-active.mobi
+0.0.0.0 ia-client01.inner-active.mobi
+0.0.0.0 ia-dev01.inner-active.mobi
+0.0.0.0 ia-dev02.inner-active.mobi
+0.0.0.0 ia-test.inner-active.mobi
+0.0.0.0 ia-vast.inner-active.mobi
 0.0.0.0 iabmap.evidon.com
 0.0.0.0 iacpromotion.s3.amazonaws.com
 0.0.0.0 iact.atdmt.com
@@ -7843,6 +7870,7 @@
 0.0.0.0 log.outbrain.org
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.pinterest.com
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 log.sggp.org.vn
 0.0.0.0 log.snapdeal.com
@@ -8442,6 +8470,7 @@
 0.0.0.0 mobile.Banzai.it
 0.0.0.0 mobile.adsafeprotected.com
 0.0.0.0 mobile.analytics.wildtangent.com
+0.0.0.0 mobile.analytics.yahoo.com
 0.0.0.0 mobile.anycast.adnxs.com
 0.0.0.0 mobile.eum-appdynamics.com
 0.0.0.0 mobile.juicyads.com
@@ -8601,6 +8630,7 @@
 0.0.0.0 mw.ucweb.com
 0.0.0.0 mwc.velti.com
 0.0.0.0 mws.adsage.com
+0.0.0.0 mx.adserver.yahoo.com
 0.0.0.0 mx.labs.teads.tv
 0.0.0.0 mx.yandex.ru
 0.0.0.0 mx0.comscore.com
@@ -8610,6 +8640,7 @@
 0.0.0.0 mxttrf.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 my.adserver.yahoo.com
 0.0.0.0 my.adsmogo.com
 0.0.0.0 my.comscore.com
 0.0.0.0 my.evidon.com
@@ -8730,13 +8761,16 @@
 0.0.0.0 nitroclicks.com
 0.0.0.0 njapplovinrtb.lfstmedia.com
 0.0.0.0 njchartboostrtb.lfstmedia.com
+0.0.0.0 nl.adserver.yahoo.com
 0.0.0.0 nlog.baidu.com
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nminmobiliaria.com
+0.0.0.0 no.adserver.yahoo.com
 0.0.0.0 node314.fractionalmedia.com
 0.0.0.0 node416.fractionalmedia.com
 0.0.0.0 node420.fractionalmedia.com
 0.0.0.0 nojsstats.appspot.com
+0.0.0.0 nol.yahoo.com
 0.0.0.0 nomalleadzuaff.com
 0.0.0.0 nonprod.flurry.com
 0.0.0.0 normandy.cdn.mozilla.net
@@ -8805,6 +8839,7 @@
 0.0.0.0 nydc1vr.outbrain.com
 0.0.0.0 nyetm2mkch.com
 0.0.0.0 nyla.outbrain.com
+0.0.0.0 nz.adserver.yahoo.com
 0.0.0.0 o.analytics.yahoo.com
 0.0.0.0 o.aolcdn.com
 0.0.0.0 o.skimresources.com
@@ -8931,6 +8966,8 @@
 0.0.0.0 optout.outbrain.com
 0.0.0.0 optout3.nexage.com
 0.0.0.0 optoutapi.evidon.com
+0.0.0.0 opus-dev.analytics.yahoo.com
+0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 orange-fr.adinfuse.com
 0.0.0.0 orangeuk-mc.adinfuse.com
 0.0.0.0 order.music.xiaomi.com
@@ -9050,6 +9087,7 @@
 0.0.0.0 partners.appsflyer.com
 0.0.0.0 partners.chartboost.com
 0.0.0.0 partners.tremorhub.com
+0.0.0.0 partners.web.analytics.yahoo.com
 0.0.0.0 partnersupport.tapjoy.com
 0.0.0.0 passionfruitads.com
 0.0.0.0 passport.360safe.com
@@ -9687,6 +9725,7 @@
 0.0.0.0 refinedads.com
 0.0.0.0 regist.fotoable.net
 0.0.0.0 register.appsflyer.com
+0.0.0.0 register.inner-active.mobi
 0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 registeridm.com
 0.0.0.0 registration.gimbal.com
@@ -9745,6 +9784,7 @@
 0.0.0.0 restartad.com
 0.0.0.0 results.deployads.com
 0.0.0.0 retarget.ssl-services.com
+0.0.0.0 retargeting.inner-active.mobi
 0.0.0.0 retg.adnetwork.vn
 0.0.0.0 return.adsame.com
 0.0.0.0 revealads.appspot.com
@@ -10033,6 +10073,7 @@
 0.0.0.0 sdk-ads.adk2x.com
 0.0.0.0 sdk-analytics.inlocoengage.com
 0.0.0.0 sdk-analytics.inlocomedia.com
+0.0.0.0 sdk-analytics.inner-active.mobi
 0.0.0.0 sdk-analytics.metaps.com
 0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 sdk-api-ssl.playhaven.com
@@ -11415,6 +11456,7 @@
 0.0.0.0 tangerine.nexage.com
 0.0.0.0 tap-cdn.rubiconproject.com
 0.0.0.0 tap-nexus.appspot.com
+0.0.0.0 tap.ads-twitter.com
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tap.tapad.com
 0.0.0.0 tap2-cdn.rubiconproject.com
@@ -12110,6 +12152,8 @@
 0.0.0.0 vas-maliva16.byteoversea.com
 0.0.0.0 vas-maliva19.byteoversea.com
 0.0.0.0 vas-maliva21.byteoversea.com
+0.0.0.0 vast-events-staging.inner-active.mobi
+0.0.0.0 vast-events.inner-active.mobi
 0.0.0.0 vast.anyclip-media.com
 0.0.0.0 vast.cloudmobi.net
 0.0.0.0 vast.moatads.com
@@ -12162,6 +12206,7 @@
 0.0.0.0 video.branch.io
 0.0.0.0 video.fyber.com
 0.0.0.0 video.inmobi.com
+0.0.0.0 video.inner-active.mobi
 0.0.0.0 video.market.xiaomi.com
 0.0.0.0 video.moatads.com
 0.0.0.0 video.rec.duapps.com
@@ -12804,6 +12849,7 @@
 0.0.0.0 www.info.amplitude.com
 0.0.0.0 www.infosec.corp.inmobi.com
 0.0.0.0 www.inmobi.com
+0.0.0.0 www.inner-active.mobi
 0.0.0.0 www.inscname.net
 0.0.0.0 www.insights.evidon.com
 0.0.0.0 www.insnw.ne
