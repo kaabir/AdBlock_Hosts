@@ -2,11 +2,12 @@ AdBlock Hosts
 ==========
 https://github.com/kaabir/AdBlock_Hosts
 
-Adblocking Domains Combined From Reputed Sources. This Repo Contains Two Variants Of Hosts.
+Adblocking Domains Combined From Reputed Sources. This Repo Contains Two Variants of Hosts.
 
 # Android Hosts
 Android Hosts contain minimal list of domains targeting Android Apps. It Blocks Analytics, Ads & Trackers mainly. Social sites are not included.
 Public Releases Updated On Telegram Channel - https://t.me/adsblock
+You can use Firefox or Kiwi Browser -> Ublock origin extension -> Add filter -> <URL>
 
 # Extended Hosts
 Extended Hosts Targets - Targeting Ads, Tracking, Analytics, Malware, Phishing & More
